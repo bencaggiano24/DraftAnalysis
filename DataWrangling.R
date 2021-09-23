@@ -1,4 +1,113 @@
 library(tidyverse)
+library(plyr)
+library(dplyr)
+
 
 playerTable <- read.csv("PlayerDataByYear.csv", header=T)
 gmTable <- read.csv("GeneralManagerData.csv", header=T)
+pitcherTable <- read.csv("PitchersDataByYear.csv", header=T)
+
+View(pitcherTable)
+View(playerTable)
+View(gmTable)
+
+gmTable <- rename(gmTable, "Team"="Team.Name")
+gmTable <- rename(gmTable, "GM"="General.Manager.Name")
+
+require(plyr)
+pitcherTable$Team <- mapvalues(pitcherTable$Team, from = c("TBD"), to=c("TBR"))
+gmTable$Team <- mapvalues(gmTable$Team, 
+                               from=c(
+                               "Anaheim Angels",
+                               "Arizona Diamondbacks",
+                               "Atlanta Braves", 
+                               "Baltimore Orioles", 
+                               "Boston Braves", 
+                               "Boston Red Sox", 
+                               "Brooklyn Dodgers", 
+                               "California Angels", 
+                               "Chicago Cubs", 
+                               "Cincinnati Reds", 
+                               "Chicago White Sox", 
+                               "Cleveland Baseball Team", 
+                               "Colorado Rockies", 
+                               "Detroit Tigers", 
+                               "Florida Marlins", 
+                               "Houston Astros", 
+                               "Houston Colt 45s", 
+                               "Kansas City Athletics", 
+                               "Kansas City Royals", 
+                               "Los Angeles Angels", 
+                               "Los Angeles Angels of Anaheim", 
+                               "Los Angeles Dodgers", 
+                               "Miami Marlins", 
+                               "Milwaukee Braves", 
+                               "Milwaukee Brewers", 
+                               "Minnesota Twins", 
+                               "Montreal Expos", 
+                               "New York Giants", 
+                               "New York Mets", 
+                               "New York Yankees", 
+                               "Oakland Athletics", 
+                               "Philadelphia Athletics", 
+                               "Philadelphia Phillies", 
+                               "Pittsburgh Pirates", 
+                               "San Diego Padres", 
+                               "San Francisco Giants", 
+                               "Seattle Mariners", 
+                               "Seattle Pilots", 
+                               "St. Louis Browns", 
+                               "St. Louis Cardinals", 
+                               "Tampa Bay Rays", 
+                               "Texas Rangers", 
+                               "Toronto Blue Jays", 
+                               "Washington Nationals", 
+                               "Washington Senators I", 
+                               "Washington Senators II"), 
+                               to=c(
+                                 "ANA",
+                                 "ARI",
+                                 "ATL", 
+                                 "BAL", 
+                                 "BSN", 
+                                 "BOS", 
+                                 "BRO", 
+                                 "CAL", 
+                                 "CHC", 
+                                 "CIN", 
+                                 "CHW", 
+                                 "CLE", 
+                                 "COL", 
+                                 "DET", 
+                                 "FLA", 
+                                 "HOU", 
+                                 "HOU", 
+                                 "KCA", 
+                                 "KCR", 
+                                 "LAA", 
+                                 "LAA", 
+                                 "LAD", 
+                                 "MIA", 
+                                 "MIL", 
+                                 "MIL", 
+                                 "MIN", 
+                                 "MON", 
+                                 "NYG", 
+                                 "NYM", 
+                                 "NYY", 
+                                 "OAK", 
+                                 "PHA", 
+                                 "PHI", 
+                                 "PIT", 
+                                 "SDP", 
+                                 "SFG", 
+                                 "SEA", 
+                                 "SEA", 
+                                 "SLB", 
+                                 "STL", 
+                                 "TBR", 
+                                 "TEX", 
+                                 "TOR", 
+                                 "WSN", 
+                                 "WAS", 
+                                 "WAS"))
