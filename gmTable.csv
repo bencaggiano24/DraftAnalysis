@@ -1,0 +1,1818 @@
+Year,Team,GM,HiLvl,MLB.Years,Stat.Years,W,L,WPct,Rank,Playoffs
+2021,ARI,Mike Hazen,A,"",1995-1999,0,0,---,5,---
+2020,ARI,Mike Hazen,A,"",1995-1999,25,35,0.417,5,dnq
+2019,ARI,Mike Hazen,A,"",1995-1999,85,77,0.525,2,dnq
+2018,ARI,Mike Hazen,A,"",1995-1999,82,80,0.506,3,dnq
+2017,ARI,Mike Hazen,A,"",1995-1999,93,69,0.574,2,Lost in 1st Round (Dodgers)
+2016,ARI,Dave Stewart,MLB,1978-1995,1977-1995,69,93,0.426,4,dnq
+2015,ARI,Dave Stewart,MLB,1978-1995,1977-1995,79,83,0.488,3,dnq
+2014,ARI,Dave Stewart,MLB,1978-1995,1977-1995,64,98,0.395,5,dnq
+2014,ARI,Kevin Towers,AAA,"",1982-1989,64,98,0.395,5,dnq
+2013,ARI,Kevin Towers,AAA,"",1982-1989,81,81,0.5,2,dnq
+2012,ARI,Kevin Towers,AAA,"",1982-1989,81,81,0.5,3,dnq
+2011,ARI,Kevin Towers,AAA,"",1982-1989,94,68,0.58,1,Lost in 1st Round (Diamondbacks)
+2010,ARI,Josh Byrnes,---,"","",65,97,0.401,5,dnq
+2009,ARI,Josh Byrnes,---,"","",70,92,0.432,5,dnq
+2008,ARI,Josh Byrnes,---,"","",82,80,0.506,2,dnq
+2007,ARI,Josh Byrnes,---,"","",90,72,0.556,1,Lost in NLCS (Colorado)
+2006,ARI,Josh Byrnes,---,"","",76,86,0.469,4,dnq
+2005,ARI,Joe Garagiola,---,"","",77,85,0.475,2,dnq
+2004,ARI,Joe Garagiola,---,"","",51,111,0.315,5,dnq
+2003,ARI,Joe Garagiola,---,"","",84,78,0.519,3,dnq
+2002,ARI,Joe Garagiola,---,"","",98,64,0.605,1,Lost in 1st Round (Cardinals)
+2001,ARI,Joe Garagiola,---,"","",92,70,0.568,1,Won World Series (Yankees)
+2000,ARI,Joe Garagiola,---,"","",85,77,0.525,3,dnq
+1999,ARI,Joe Garagiola,---,"","",100,62,0.617,1,Lost in 1st Round (Mets)
+1998,ARI,Joe Garagiola,---,"","",65,97,0.401,5,dnq
+2021,ATL,Alex Anthopoulos,---,"","",0,0,---,1,---
+2020,ATL,Alex Anthopoulos,---,"","",35,25,0.583,1,Lost in NLCS (Dodgers)
+2019,ATL,Alex Anthopoulos,---,"","",97,65,0.599,1,Lost in 1st Round (Cardinals)
+2018,ATL,Alex Anthopoulos,---,"","",90,72,0.556,1,dnq
+2017,ATL,John Coppolella,---,"","",72,90,0.444,3,dnq
+2016,ATL,John Coppolella,---,"","",68,93,0.422,5,dnq
+2015,ATL,John Hart,---,"","",67,95,0.414,4,dnq
+2014,ATL,Frank Wren,AA,"",1977-1982,79,83,0.488,2,dnq
+2014,ATL,John Hart,---,"","",79,83,0.488,2,dnq
+2013,ATL,Frank Wren,AA,"",1977-1982,96,66,0.593,1,Lost in 1st Round (Dodgers)
+2012,ATL,Frank Wren,AA,"",1977-1982,94,68,0.58,2,Lost NL Wild-Card Game (Cardinals)
+2011,ATL,Frank Wren,AA,"",1977-1982,89,73,0.549,2,dnq
+2010,ATL,Frank Wren,AA,"",1977-1982,91,71,0.562,2,Lost in 1st Round (Giants)
+2009,ATL,Frank Wren,AA,"",1977-1982,86,76,0.531,3,dnq
+2008,ATL,Frank Wren,AA,"",1977-1982,72,90,0.444,4,dnq
+2007,ATL,John Schuerholz,---,"","",84,78,0.519,3,dnq
+2006,ATL,John Schuerholz,---,"","",79,83,0.488,3,dnq
+2005,ATL,John Schuerholz,---,"","",90,72,0.556,1,Lost NLDS (Astros)
+2004,ATL,John Schuerholz,---,"","",96,66,0.593,1,Lost in 1st Round (Astros)
+2003,ATL,John Schuerholz,---,"","",101,61,0.623,1,Lost in 1st Round (Cubs)
+2002,ATL,John Schuerholz,---,"","",101,59,0.631,1,Lost in 1st Round (Giants)
+2001,ATL,John Schuerholz,---,"","",88,74,0.543,1,Lost in 1st Round (Diamondbacks)
+2000,ATL,John Schuerholz,---,"","",95,67,0.586,1,Lost in 1st Round (Cardinals)
+1999,ATL,John Schuerholz,---,"","",103,59,0.636,1,Lost World Series (Yankees)
+1998,ATL,John Schuerholz,---,"","",106,56,0.654,1,Lost in 1st Round (Padres)
+1997,ATL,John Schuerholz,---,"","",101,61,0.623,1,Lost NLCS (Marlins)
+1996,ATL,John Schuerholz,---,"","",96,66,0.593,1,Lost World Series (Yankees)
+1995,ATL,John Schuerholz,---,"","",90,54,0.625,1,Won World Series (Indians)
+1994,ATL,John Schuerholz,---,"","",68,46,0.596,2,dnq
+1993,ATL,John Schuerholz,---,"","",104,58,0.642,1,Lost NLCS (Phillies)
+1992,ATL,John Schuerholz,---,"","",98,64,0.605,1,Lost World Series (Blue Jays)
+1991,ATL,John Schuerholz,---,"","",94,68,0.58,1,Lost World Series (Twins)
+1990,ATL,Bobby Cox,MLB,1968-1969,1968-1969,65,97,0.401,6,dnq
+1989,ATL,Bobby Cox,MLB,1968-1969,1968-1969,63,97,0.394,6,dnq
+1988,ATL,Bobby Cox,MLB,1968-1969,1968-1969,54,106,0.338,6,dnq
+1987,ATL,Bobby Cox,MLB,1968-1969,1968-1969,69,92,0.429,5,dnq
+1986,ATL,Bobby Cox,MLB,1968-1969,1968-1969,72,89,0.447,6,dnq
+1985,ATL,John Mullen,---,"","",66,96,0.407,5,dnq
+1984,ATL,John Mullen,---,"","",80,82,0.494,3,dnq
+1983,ATL,John Mullen,---,"","",88,74,0.543,2,dnq
+1982,ATL,John Mullen,---,"","",89,73,0.549,1,Lost NLCS (Cardinals)
+1981,ATL,John Mullen,---,"","",50,56,0.472,0,dnq
+1980,ATL,John Mullen,---,"","",81,80,0.503,4,dnq
+1979,ATL,Bill Lucas,---,"","",66,94,0.413,6,dnq
+1978,ATL,Bill Lucas,---,"","",69,93,0.426,6,dnq
+1977,ATL,Bill Lucas,---,"","",61,101,0.377,6,dnq
+1976,ATL,Eddie Robinson,MLB,1942-1957,1942-1957,70,92,0.432,6,dnq
+1975,ATL,Eddie Robinson,MLB,1942-1957,1942-1957,67,94,0.416,5,dnq
+1974,ATL,Eddie Robinson,MLB,1942-1957,1942-1957,88,74,0.543,3,dnq
+1973,ATL,Eddie Robinson,MLB,1942-1957,1942-1957,76,85,0.472,5,dnq
+1972,ATL,Paul Richards,MLB,1932-1946,1932-1946,70,84,0.455,4,dnq
+1971,ATL,Paul Richards,MLB,1932-1946,1932-1946,82,80,0.506,3,dnq
+1970,ATL,Paul Richards,MLB,1932-1946,1932-1946,76,86,0.469,5,dnq
+1969,ATL,Paul Richards,MLB,1932-1946,1932-1946,93,69,0.574,1,Lost NLCS (Mets)
+1968,ATL,Paul Richards,MLB,1932-1946,1932-1946,81,81,0.5,5,dnq
+1967,ATL,Paul Richards,MLB,1932-1946,1932-1946,77,85,0.475,7,dnq
+1966,ATL,John McHale,MLB,1943-1948,1943-1948,85,77,0.525,5,dnq
+1965,MIL,John McHale,MLB,1943-1948,1943-1948,86,76,0.531,5,dnq
+1964,MIL,John McHale,MLB,1943-1948,1943-1948,88,74,0.543,5,dnq
+1963,MIL,John McHale,MLB,1943-1948,1943-1948,84,78,0.519,6,dnq
+1962,MIL,John McHale,MLB,1943-1948,1943-1948,86,76,0.531,5,dnq
+1961,MIL,John McHale,MLB,1943-1948,1943-1948,83,71,0.539,4,dnq
+1960,MIL,John McHale,MLB,1943-1948,1943-1948,88,66,0.571,2,dnq
+1959,MIL,John McHale,MLB,1943-1948,1943-1948,86,70,0.551,2,dnq
+1958,MIL,John Quinn,---,"","",92,62,0.597,1,Lost World Series (Yankees)
+1957,MIL,John Quinn,---,"","",95,59,0.617,1,Won World Series (Yankees)
+1956,MIL,John Quinn,---,"","",92,62,0.597,2,dnq
+1955,MIL,John Quinn,---,"","",85,69,0.552,2,dnq
+1954,MIL,John Quinn,---,"","",89,65,0.578,3,dnq
+1953,MIL,John Quinn,---,"","",92,62,0.597,2,dnq
+1952,BSN,John Quinn,---,"","",64,89,0.418,7,dnq
+1951,BSN,John Quinn,---,"","",76,78,0.494,4,dnq
+1950,BSN,John Quinn,"","","",,,"",,""
+2021,BAL,Mike Elias,NCAA,"",2002-2006,0,0,---,4,---
+2020,BAL,Mike Elias,NCAA,"",2002-2006,25,35,0.417,4,dnq
+2019,BAL,Mike Elias,NCAA,"",2002-2006,54,108,0.333,5,dnq
+2018,BAL,Dan Duquette,---,"","",47,115,0.29,5,dnq
+2017,BAL,Dan Duquette,---,"","",75,87,0.463,5,dnq
+2016,BAL,Dan Duquette,---,"","",89,73,0.549,2,Lost AL Wild-Card Game (Blue Jays)
+2015,BAL,Dan Duquette,---,"","",81,81,0.5,3,dnq
+2014,BAL,Dan Duquette,---,"","",96,66,0.593,1,Lost in ALCS (Royals)
+2013,BAL,Dan Duquette,---,"","",85,77,0.525,4,dnq
+2012,BAL,Dan Duquette,---,"","",93,69,0.574,2,Lost in 1st Round (Yankees)
+2011,BAL,Andy MacPhail,---,"","",69,93,0.426,5,dnq
+2010,BAL,Andy MacPhail,---,"","",66,96,0.407,5,dnq
+2009,BAL,Andy MacPhail,---,"","",64,98,0.395,5,dnq
+2008,BAL,Andy MacPhail,---,"","",68,93,0.422,5,dnq
+2007,BAL,Andy MacPhail,---,"","",69,93,0.426,4,dnq
+2006,BAL,Mike Flanagan,MLB,1975-1992,1972-1992,70,92,0.432,4,dnq
+2005,BAL,Jim Beattie,MLB,1978-1986,1976-1986,74,88,0.457,4,dnq
+2005,BAL,Mike Flanagan,MLB,1975-1992,1972-1992,74,88,0.457,4,dnq
+2004,BAL,Jim Beattie,MLB,1978-1986,1976-1986,78,84,0.481,3,dnq
+2004,BAL,Mike Flanagan,MLB,1975-1992,1972-1992,78,84,0.481,3,dnq
+2003,BAL,Jim Beattie,MLB,1978-1986,1976-1986,71,91,0.438,4,dnq
+2003,BAL,Mike Flanagan,MLB,1975-1992,1972-1992,71,91,0.438,4,dnq
+2002,BAL,Syd Thrift,---,"","",67,95,0.414,4,dnq
+2001,BAL,Syd Thrift,---,"","",63,98,0.391,4,dnq
+2000,BAL,Syd Thrift,---,"","",74,88,0.457,4,dnq
+1999,BAL,Frank Wren,AA,"",1977-1982,78,84,0.481,4,dnq
+1998,BAL,Pat Gillick,---,"","",79,83,0.488,4,dnq
+1997,BAL,Pat Gillick,---,"","",98,64,0.605,1,Lost ALCS (Indians)
+1996,BAL,Pat Gillick,---,"","",88,74,0.543,2,Lost ALCS (Yankees)
+1995,BAL,Roland Hemond,---,"","",71,73,0.493,3,dnq
+1994,BAL,Roland Hemond,---,"","",63,49,0.563,2,dnq
+1993,BAL,Roland Hemond,---,"","",85,77,0.525,3,dnq
+1992,BAL,Roland Hemond,---,"","",89,73,0.549,3,dnq
+1991,BAL,Roland Hemond,---,"","",67,95,0.414,6,dnq
+1990,BAL,Roland Hemond,---,"","",76,85,0.472,5,dnq
+1989,BAL,Roland Hemond,---,"","",87,75,0.537,2,dnq
+1988,BAL,Roland Hemond,---,"","",54,107,0.335,7,dnq
+1987,BAL,Hank Peters,---,"","",67,95,0.414,6,dnq
+1986,BAL,Hank Peters,---,"","",73,89,0.451,7,dnq
+1985,BAL,Hank Peters,---,"","",83,78,0.516,4,dnq
+1984,BAL,Hank Peters,---,"","",85,77,0.525,5,dnq
+1983,BAL,Hank Peters,---,"","",98,64,0.605,1,Won World Series (Phillies)
+1982,BAL,Hank Peters,---,"","",94,68,0.58,2,dnq
+1981,BAL,Hank Peters,---,"","",59,46,0.562,0,dnq
+1980,BAL,Hank Peters,---,"","",100,62,0.617,2,dnq
+1979,BAL,Hank Peters,---,"","",102,57,0.642,1,Lost World Series (Pirates)
+1978,BAL,Hank Peters,---,"","",90,71,0.559,4,dnq
+1977,BAL,Hank Peters,---,"","",97,64,0.602,2,dnq
+1976,BAL,Hank Peters,---,"","",88,74,0.543,2,dnq
+1975,BAL,Frank Cashen,---,"","",90,69,0.566,2,dnq
+1974,BAL,Frank Cashen,---,"","",91,71,0.562,1,Lost ALCS (Athletics)
+1973,BAL,Frank Cashen,---,"","",97,65,0.599,1,Lost ALCS (Athletics)
+1972,BAL,Frank Cashen,---,"","",80,74,0.519,3,dnq
+1971,BAL,Harry Dalton,---,"","",101,57,0.639,1,Lost World Series (Pirates)
+1970,BAL,Harry Dalton,---,"","",108,54,0.667,1,Won World Series (Reds)
+1969,BAL,Harry Dalton,---,"","",109,53,0.673,1,Lost World Series (Mets)
+1968,BAL,Harry Dalton,---,"","",91,71,0.562,2,dnq
+1967,BAL,Harry Dalton,---,"","",76,85,0.472,7,dnq
+1966,BAL,Harry Dalton,---,"","",97,63,0.606,1,Won World Series (Dodgers)
+1965,BAL,Lee MacPhail,---,"","",94,68,0.58,3,dnq
+1964,BAL,Lee MacPhail,---,"","",97,65,0.599,3,dnq
+1963,BAL,Lee MacPhail,---,"","",86,76,0.531,4,dnq
+1962,BAL,Lee MacPhail,---,"","",77,85,0.475,7,dnq
+1961,BAL,Lee MacPhail,---,"","",95,67,0.586,3,dnq
+1960,BAL,Lee MacPhail,---,"","",89,65,0.578,2,dnq
+1959,BAL,Lee MacPhail,---,"","",74,80,0.481,6,dnq
+1958,BAL,Paul Richards,MLB,1932-1946,1932-1946,74,79,0.484,6,dnq
+1957,BAL,Paul Richards,MLB,1932-1946,1932-1946,76,76,0.5,5,dnq
+1956,BAL,Paul Richards,MLB,1932-1946,1932-1946,69,85,0.448,6,dnq
+1955,BAL,Paul Richards,MLB,1932-1946,1932-1946,57,97,0.37,7,dnq
+1954,BAL,Art Ehlers,---,"","",54,100,0.351,7,dnq
+1953,SLB,Bill Veeck,---,"","",54,100,0.351,8,dnq
+1952,SLB,Bill Veeck,---,"","",64,90,0.416,7,dnq
+1951,SLB,Bill DeWitt,---,"","",52,102,0.338,8,dnq
+1950,SLB,Bill DeWitt,---,"","",58,96,0.377,7,dnq
+2021,BOS,Brian O'Halloran,---,"","",0,0,---,5,---
+2020,BOS,Dave Dombrowski,---,"","",24,36,0.4,5,dnq
+2019,BOS,Dave Dombrowski,---,"","",84,78,0.519,3,dnq
+2018,BOS,Dave Dombrowski,---,"","",108,54,0.667,1,Won World Series (Dodgers)
+2017,BOS,Dave Dombrowski,---,"","",93,69,0.574,1,Lost in 1st Round (Astros)
+2016,BOS,Mike Hazen,A,"",1995-1999,93,69,0.574,1,Lost in 1st Round (Indians)
+2015,BOS,Ben Cherington,---,"","",78,84,0.481,5,dnq
+2014,BOS,Ben Cherington,---,"","",71,91,0.438,5,dnq
+2013,BOS,Ben Cherington,---,"","",97,65,0.599,1,Won World Series (Cardinals)
+2012,BOS,Ben Cherington,---,"","",69,93,0.426,5,dnq
+2011,BOS,Theo Epstein,---,"","",90,72,0.556,3,dnq
+2010,BOS,Theo Epstein,---,"","",89,73,0.549,3,dnq
+2009,BOS,Theo Epstein,---,"","",95,67,0.586,2,Lost in ALDS (LA Angels)
+2008,BOS,Theo Epstein,---,"","",95,67,0.586,2,Lost in ALCS (Tampa Bay)
+2007,BOS,Theo Epstein,---,"","",96,66,0.593,1,Won World Series (Colorado)
+2006,BOS,Theo Epstein,---,"","",86,76,0.531,3,dnq
+2005,BOS,Theo Epstein,---,"","",95,67,0.586,2,Lost ALDS (White Sox)
+2004,BOS,Theo Epstein,---,"","",98,64,0.605,2,Won World Series (Cardinals)
+2003,BOS,Theo Epstein,---,"","",95,67,0.586,2,Lost ALCS (Yankees)
+2002,BOS,Mike Port,---,"","",93,69,0.574,2,dnq
+2001,BOS,Dan Duquette,---,"","",82,79,0.509,2,dnq
+2000,BOS,Dan Duquette,---,"","",85,77,0.525,2,dnq
+1999,BOS,Dan Duquette,---,"","",94,68,0.58,2,Lost ALCS (Yankees)
+1998,BOS,Dan Duquette,---,"","",92,70,0.568,2,Lost in 1st Round (Indians)
+1997,BOS,Dan Duquette,---,"","",78,84,0.481,4,dnq
+1996,BOS,Dan Duquette,---,"","",85,77,0.525,3,dnq
+1995,BOS,Dan Duquette,---,"","",86,58,0.597,1,Lost in 1st Round (Indians)
+1994,BOS,Dan Duquette,---,"","",54,61,0.47,4,dnq
+1993,BOS,Lou Gorman,---,"","",80,82,0.494,5,dnq
+1992,BOS,Lou Gorman,---,"","",73,89,0.451,7,dnq
+1991,BOS,Lou Gorman,---,"","",84,78,0.519,3,dnq
+1990,BOS,Lou Gorman,---,"","",88,74,0.543,1,Lost ALCS (Athletics)
+1989,BOS,Lou Gorman,---,"","",83,79,0.512,3,dnq
+1988,BOS,Lou Gorman,---,"","",89,73,0.549,1,Lost ALCS (Athletics)
+1987,BOS,Lou Gorman,---,"","",78,84,0.481,5,dnq
+1986,BOS,Lou Gorman,---,"","",95,66,0.59,1,Lost World Series (Mets)
+1985,BOS,Lou Gorman,---,"","",81,81,0.5,5,dnq
+1984,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,86,76,0.531,4,dnq
+1983,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,78,84,0.481,6,dnq
+1982,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,89,73,0.549,3,dnq
+1981,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,59,49,0.546,0,dnq
+1980,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,83,77,0.519,4,dnq
+1979,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,91,69,0.569,3,dnq
+1978,BOS,Haywood Sullivan,MLB,1955-1963,1955-1963,99,64,0.607,2,dnq
+1977,BOS,Dick O'Connell,---,"","",97,64,0.602,3,dnq
+1976,BOS,Dick O'Connell,---,"","",83,79,0.512,3,dnq
+1975,BOS,Dick O'Connell,---,"","",95,65,0.594,1,Lost World Series (Reds)
+1974,BOS,Dick O'Connell,---,"","",84,78,0.519,3,dnq
+1973,BOS,Dick O'Connell,---,"","",89,73,0.549,2,dnq
+1972,BOS,Dick O'Connell,---,"","",85,70,0.548,2,dnq
+1971,BOS,Dick O'Connell,---,"","",85,77,0.525,3,dnq
+1970,BOS,Dick O'Connell,---,"","",87,75,0.537,3,dnq
+1969,BOS,Dick O'Connell,---,"","",87,75,0.537,3,dnq
+1968,BOS,Dick O'Connell,---,"","",86,76,0.531,4,dnq
+1967,BOS,Dick O'Connell,---,"","",92,70,0.568,1,Lost World Series (Cardinals)
+1966,BOS,Dick O'Connell,---,"","",72,90,0.444,9,dnq
+1965,BOS,Pinky Higgins,MLB,1930-1946,1930-1946,62,100,0.383,9,dnq
+1964,BOS,Pinky Higgins,MLB,1930-1946,1930-1946,72,90,0.444,8,dnq
+1963,BOS,Pinky Higgins,MLB,1930-1946,1930-1946,76,85,0.472,7,dnq
+1962,BOS,Dick O'Connell,---,"","",76,84,0.475,8,dnq
+1961,BOS,Dick O'Connell,---,"","",76,86,0.469,6,dnq
+1960,BOS,Bucky Harris,MLB,1919-1931,1919-1931,65,89,0.422,7,dnq
+1959,BOS,Bucky Harris,MLB,1919-1931,1919-1931,75,79,0.487,5,dnq
+1958,BOS,Joe Cronin,MLB,1926-1945,1926-1945,79,75,0.513,3,dnq
+1957,BOS,Joe Cronin,MLB,1926-1945,1926-1945,82,72,0.532,3,dnq
+1956,BOS,Joe Cronin,MLB,1926-1945,1926-1945,84,70,0.545,4,dnq
+1955,BOS,Joe Cronin,MLB,1926-1945,1926-1945,84,70,0.545,4,dnq
+1954,BOS,Joe Cronin,MLB,1926-1945,1926-1945,69,85,0.448,4,dnq
+1953,BOS,Joe Cronin,MLB,1926-1945,1926-1945,84,69,0.549,4,dnq
+1952,BOS,Joe Cronin,MLB,1926-1945,1926-1945,76,78,0.494,6,dnq
+1951,BOS,Joe Cronin,MLB,1926-1945,1926-1945,87,67,0.565,3,dnq
+1950,BOS,Joe Cronin,MLB,1926-1945,1926-1945,94,60,0.61,3,dnq
+2020,CHC,Jed Hoyer,---,"","",34,25,0.576,1,Lost in Wild Card Series (Marlins)
+2019,CHC,Jed Hoyer,---,"","",84,78,0.519,3,dnq
+2018,CHC,Jed Hoyer,---,"","",95,68,0.583,2,Lost NL Wild-Card Game (Rockies)
+2017,CHC,Jed Hoyer,---,"","",92,70,0.568,1,Lost in NLCS (Dodgers)
+2016,CHC,Jed Hoyer,---,"","",103,58,0.64,1,Won World Series (Indians)
+2015,CHC,Jed Hoyer,---,"","",97,65,0.599,3,Lost in ALCS (Mets)
+2014,CHC,Jed Hoyer,---,"","",73,89,0.451,5,dnq
+2013,CHC,Jed Hoyer,---,"","",66,96,0.407,5,dnq
+2012,CHC,Jed Hoyer,---,"","",61,101,0.377,5,dnq
+2011,CHC,Randy Bush,MLB,1982-1993,1979-1993,71,91,0.438,5,dnq
+2011,CHC,Jim Hendry,---,"","",71,91,0.438,5,dnq
+2010,CHC,Jim Hendry,---,"","",75,87,0.463,5,dnq
+2009,CHC,Jim Hendry,---,"","",83,78,0.516,2,dnq
+2008,CHC,Jim Hendry,---,"","",97,64,0.602,1,Lost in NLDS (Los Angeles)
+2007,CHC,Jim Hendry,---,"","",85,77,0.525,1,Lost in NLDS (Arizona)
+2006,CHC,Jim Hendry,---,"","",66,96,0.407,6,dnq
+2005,CHC,Jim Hendry,---,"","",79,83,0.488,4,dnq
+2004,CHC,Jim Hendry,---,"","",89,73,0.549,3,dnq
+2003,CHC,Jim Hendry,---,"","",88,74,0.543,1,Lost NLCS (Marlins)
+2002,CHC,Andy MacPhail,---,"","",67,95,0.414,5,dnq
+2001,CHC,Andy MacPhail,---,"","",88,74,0.543,3,dnq
+2000,CHC,Ed Lynch,MLB,1980-1987,1974-1988,65,97,0.401,6,dnq
+1999,CHC,Ed Lynch,MLB,1980-1987,1974-1988,67,95,0.414,6,dnq
+1998,CHC,Ed Lynch,MLB,1980-1987,1974-1988,90,73,0.552,2,Lost in 1st Round (Braves)
+1997,CHC,Ed Lynch,MLB,1980-1987,1974-1988,68,94,0.42,5,dnq
+1996,CHC,Ed Lynch,MLB,1980-1987,1974-1988,76,86,0.469,4,dnq
+1995,CHC,Ed Lynch,MLB,1980-1987,1974-1988,73,71,0.507,3,dnq
+1994,CHC,Larry Himes,---,"","",49,64,0.434,5,dnq
+1993,CHC,Larry Himes,---,"","",84,78,0.519,4,dnq
+1992,CHC,Larry Himes,---,"","",78,84,0.481,4,dnq
+1991,CHC,Jim Frey,---,"","",77,83,0.481,4,dnq
+1990,CHC,Jim Frey,---,"","",77,85,0.475,5,dnq
+1989,CHC,Jim Frey,---,"","",93,69,0.574,1,Lost NLCS (Giants)
+1988,CHC,Jim Frey,---,"","",77,85,0.475,4,dnq
+1987,CHC,Dallas Green,MLB,1960-1967,1960-1967,76,85,0.472,6,dnq
+1986,CHC,Dallas Green,MLB,1960-1967,1960-1967,70,90,0.438,5,dnq
+1985,CHC,Dallas Green,MLB,1960-1967,1960-1967,77,84,0.478,4,dnq
+1984,CHC,Dallas Green,MLB,1960-1967,1960-1967,96,65,0.596,1,Lost NLCS (Padres)
+1983,CHC,Dallas Green,MLB,1960-1967,1960-1967,71,91,0.438,5,dnq
+1982,CHC,Dallas Green,MLB,1960-1967,1960-1967,73,89,0.451,5,dnq
+1981,CHC,Bob Kennedy,MLB,1939-1957,1939-1957,38,65,0.369,0,dnq
+1980,CHC,Bob Kennedy,MLB,1939-1957,1939-1957,64,98,0.395,6,dnq
+1979,CHC,Bob Kennedy,MLB,1939-1957,1939-1957,80,82,0.494,5,dnq
+1978,CHC,Bob Kennedy,MLB,1939-1957,1939-1957,79,83,0.488,3,dnq
+1977,CHC,Bob Kennedy,MLB,1939-1957,1939-1957,81,81,0.5,4,dnq
+1976,CHC,Salty Saltwell,---,"","",75,87,0.463,4,dnq
+1975,CHC,John Holland,---,"","",75,87,0.463,6,dnq
+1974,CHC,John Holland,---,"","",66,96,0.407,6,dnq
+1973,CHC,John Holland,---,"","",77,84,0.478,5,dnq
+1972,CHC,John Holland,---,"","",85,70,0.548,2,dnq
+1971,CHC,John Holland,---,"","",83,79,0.512,4,dnq
+1970,CHC,John Holland,---,"","",84,78,0.519,2,dnq
+1969,CHC,John Holland,---,"","",92,70,0.568,2,dnq
+1968,CHC,John Holland,---,"","",84,78,0.519,3,dnq
+1967,CHC,John Holland,---,"","",87,74,0.54,3,dnq
+1966,CHC,John Holland,---,"","",59,103,0.364,10,dnq
+1965,CHC,John Holland,---,"","",72,90,0.444,8,dnq
+1964,CHC,John Holland,---,"","",76,86,0.469,8,dnq
+1963,CHC,John Holland,---,"","",82,80,0.506,7,dnq
+1962,CHC,John Holland,---,"","",59,103,0.364,9,dnq
+1961,CHC,John Holland,---,"","",64,90,0.416,7,dnq
+1960,CHC,John Holland,---,"","",60,94,0.39,7,dnq
+1959,CHC,John Holland,---,"","",74,80,0.481,6,dnq
+1958,CHC,John Holland,---,"","",72,82,0.468,6,dnq
+1957,CHC,John Holland,---,"","",62,92,0.403,8,dnq
+1956,CHC,Wid Mathews,---,"","",60,94,0.39,8,dnq
+1955,CHC,Wid Mathews,---,"","",72,81,0.471,6,dnq
+1954,CHC,Wid Mathews,---,"","",64,90,0.416,7,dnq
+1953,CHC,Wid Mathews,---,"","",65,89,0.422,7,dnq
+1952,CHC,Wid Mathews,---,"","",77,77,0.5,5,dnq
+1951,CHC,Wid Mathews,---,"","",62,92,0.403,8,dnq
+1950,CHC,Wid Mathews,---,"","",64,89,0.418,7,dnq
+2021,CIN,Nick Krall,---,"","",0,0,---,2,---
+2020,CIN,Nick Krall,---,"","",31,29,0.517,2,Lost in Wild Card Series (Braves)
+2019,CIN,Nick Krall,---,"","",75,87,0.463,4,dnq
+2018,CIN,Nick Krall,---,"","",67,95,0.414,5,dnq
+2017,CIN,Dick Williams,---,"","",68,94,0.42,5,dnq
+2016,CIN,Dick Williams,---,"","",68,94,0.42,5,dnq
+2015,CIN,Walt Jocketty,---,"","",64,98,0.395,5,dnq
+2014,CIN,Walt Jocketty,---,"","",76,86,0.469,4,dnq
+2013,CIN,Walt Jocketty,---,"","",90,72,0.556,3,Lost NL Wild-Card Game (Pirates)
+2012,CIN,Walt Jocketty,---,"","",97,65,0.599,1,Lost in 1st Round (Giants)
+2011,CIN,Walt Jocketty,---,"","",79,83,0.488,3,dnq
+2010,CIN,Walt Jocketty,---,"","",91,71,0.562,1,Lost in 1st Round (Phillies)
+2009,CIN,Walt Jocketty,---,"","",78,84,0.481,4,dnq
+2008,CIN,Walt Jocketty,---,"","",74,88,0.457,5,dnq
+2007,CIN,Wayne Krivsky,---,"","",72,90,0.444,5,dnq
+2006,CIN,Wayne Krivsky,---,"","",80,82,0.494,3,dnq
+2005,CIN,Dan O'Brien,---,"","",73,89,0.451,5,dnq
+2004,CIN,Dan O'Brien,---,"","",76,86,0.469,4,dnq
+2003,CIN,Jim Bowden,---,"","",69,93,0.426,5,dnq
+2002,CIN,Jim Bowden,---,"","",78,84,0.481,3,dnq
+2001,CIN,Jim Bowden,---,"","",66,96,0.407,5,dnq
+2000,CIN,Jim Bowden,---,"","",85,77,0.525,2,dnq
+1999,CIN,Jim Bowden,---,"","",96,67,0.589,2,dnq
+1998,CIN,Jim Bowden,---,"","",77,85,0.475,4,dnq
+1997,CIN,Jim Bowden,---,"","",76,86,0.469,3,dnq
+1996,CIN,Jim Bowden,---,"","",81,81,0.5,3,dnq
+1995,CIN,Jim Bowden,---,"","",85,59,0.59,1,Lost NLCS (Braves)
+1994,CIN,Jim Bowden,---,"","",66,48,0.579,1,dnq
+1993,CIN,Jim Bowden,---,"","",73,89,0.451,5,dnq
+1992,CIN,Bob Quinn,---,"","",90,72,0.556,2,dnq
+1991,CIN,Bob Quinn,---,"","",74,88,0.457,5,dnq
+1990,CIN,Bob Quinn,---,"","",91,71,0.562,1,Won World Series (Athletics)
+1989,CIN,Murray Cook,---,"","",75,87,0.463,5,dnq
+1988,CIN,Murray Cook,---,"","",87,74,0.54,2,dnq
+1987,CIN,Bill Bergesch,---,"","",84,78,0.519,2,dnq
+1986,CIN,Bill Bergesch,---,"","",86,76,0.531,2,dnq
+1985,CIN,Bill Bergesch,---,"","",89,72,0.553,2,dnq
+1984,CIN,Bob Howsam,---,"","",70,92,0.432,5,dnq
+1983,CIN,Dick Wagner,---,"","",74,88,0.457,6,dnq
+1982,CIN,Dick Wagner,---,"","",61,101,0.377,6,dnq
+1981,CIN,Dick Wagner,---,"","",66,42,0.611,0,dnq
+1980,CIN,Dick Wagner,---,"","",89,73,0.549,3,dnq
+1979,CIN,Dick Wagner,---,"","",90,71,0.559,1,Lost NLCS (Pirates)
+1978,CIN,Bob Howsam,---,"","",92,69,0.571,2,dnq
+1977,CIN,Bob Howsam,---,"","",88,74,0.543,2,dnq
+1976,CIN,Bob Howsam,---,"","",102,60,0.63,1,Won World Series (Yankees)
+1975,CIN,Bob Howsam,---,"","",108,54,0.667,1,Won World Series (Red Sox)
+1974,CIN,Bob Howsam,---,"","",98,64,0.605,2,dnq
+1973,CIN,Bob Howsam,---,"","",99,63,0.611,1,Lost NLCS (Mets)
+1972,CIN,Bob Howsam,---,"","",95,59,0.617,1,Lost World Series (Athletics)
+1971,CIN,Bob Howsam,---,"","",79,83,0.488,5,dnq
+1970,CIN,Bob Howsam,---,"","",102,60,0.63,1,Lost World Series (Orioles)
+1969,CIN,Bob Howsam,---,"","",89,73,0.549,3,dnq
+1968,CIN,Bob Howsam,---,"","",83,79,0.512,4,dnq
+1967,CIN,Bob Howsam,---,"","",87,75,0.537,4,dnq
+1966,CIN,Bill DeWitt,---,"","",76,84,0.475,7,dnq
+1965,CIN,Bill DeWitt,---,"","",89,73,0.549,4,dnq
+1964,CIN,Bill DeWitt,---,"","",92,70,0.568,3,dnq
+1963,CIN,Bill DeWitt,---,"","",86,76,0.531,5,dnq
+1962,CIN,Bill DeWitt,---,"","",98,64,0.605,3,dnq
+1961,CIN,Bill DeWitt,---,"","",93,61,0.604,1,Lost World Series (Yankees)
+1960,CIN,Gabe Paul,---,"","",67,87,0.435,6,dnq
+1959,CIN,Gabe Paul,---,"","",74,80,0.481,5,dnq
+1958,CIN,Gabe Paul,---,"","",76,78,0.494,4,dnq
+1957,CIN,Gabe Paul,---,"","",80,74,0.519,4,dnq
+1956,CIN,Gabe Paul,---,"","",91,63,0.591,3,dnq
+1955,CIN,Gabe Paul,---,"","",75,79,0.487,5,dnq
+1954,CIN,Gabe Paul,---,"","",74,80,0.481,5,dnq
+1953,CIN,Gabe Paul,---,"","",68,86,0.442,6,dnq
+1952,CIN,Gabe Paul,---,"","",69,85,0.448,6,dnq
+1951,CIN,Warren Giles,---,"","",68,86,0.442,6,dnq
+1950,CIN,Warren Giles,---,"","",66,87,0.431,6,dnq
+2021,CLE,Mike Chernoff,NCAA,"",2000-2003,0,0,---,2,---
+2020,CLE,Mike Chernoff,NCAA,"",2000-2003,35,25,0.583,2,Lost in Wild Card Series (Yankees)
+2019,CLE,Mike Chernoff,NCAA,"",2000-2003,93,69,0.574,2,dnq
+2018,CLE,Mike Chernoff,NCAA,"",2000-2003,91,71,0.562,1,Lost in 1st Round (Astros)
+2017,CLE,Mike Chernoff,NCAA,"",2000-2003,102,60,0.63,1,Lost in 1st Round (Yankees)
+2016,CLE,Mike Chernoff,NCAA,"",2000-2003,94,67,0.584,1,Lost World Series (Cubs)
+2015,CLE,Chris Antonetti,---,"","",81,80,0.503,3,dnq
+2014,CLE,Chris Antonetti,---,"","",85,77,0.525,3,dnq
+2013,CLE,Chris Antonetti,---,"","",92,70,0.568,2,Lost AL Wild-Card Game (Rays)
+2012,CLE,Chris Antonetti,---,"","",68,94,0.42,4,dnq
+2011,CLE,Chris Antonetti,---,"","",80,82,0.494,2,dnq
+2010,CLE,Mark Shapiro,---,"","",69,93,0.426,4,dnq
+2009,CLE,Mark Shapiro,---,"","",65,97,0.401,4,dnq
+2008,CLE,Mark Shapiro,---,"","",81,81,0.5,3,dnq
+2007,CLE,Mark Shapiro,---,"","",96,66,0.593,1,Lost in ALCS (Boston)
+2006,CLE,Mark Shapiro,---,"","",78,84,0.481,4,dnq
+2005,CLE,Mark Shapiro,---,"","",93,69,0.574,2,dnq
+2004,CLE,Mark Shapiro,---,"","",80,82,0.494,3,dnq
+2003,CLE,Mark Shapiro,---,"","",68,94,0.42,4,dnq
+2002,CLE,Mark Shapiro,---,"","",74,88,0.457,3,dnq
+2001,CLE,John Hart,---,"","",91,71,0.562,1,Lost in 1st Round (Mariners)
+2000,CLE,John Hart,---,"","",90,72,0.556,2,dnq
+1999,CLE,John Hart,---,"","",97,65,0.599,1,Lost in 1st Round (Red Sox)
+1998,CLE,John Hart,---,"","",89,73,0.549,1,Lost ALCS (Yankees)
+1997,CLE,John Hart,---,"","",86,75,0.534,1,Lost World Series (Marlins)
+1996,CLE,John Hart,---,"","",99,62,0.615,1,Lost in 1st Round (Orioles)
+1995,CLE,John Hart,---,"","",100,44,0.694,1,Lost World Series (Braves)
+1994,CLE,John Hart,---,"","",66,47,0.584,2,dnq
+1993,CLE,John Hart,---,"","",76,86,0.469,6,dnq
+1992,CLE,John Hart,---,"","",76,86,0.469,5,dnq
+1991,CLE,John Hart,---,"","",57,105,0.352,7,dnq
+1990,CLE,Hank Peters,---,"","",77,85,0.475,4,dnq
+1989,CLE,Hank Peters,---,"","",73,89,0.451,6,dnq
+1988,CLE,Hank Peters,---,"","",78,84,0.481,6,dnq
+1987,CLE,Joe Klein,---,"","",61,101,0.377,7,dnq
+1986,CLE,Joe Klein,---,"","",84,78,0.519,5,dnq
+1985,CLE,Phil Seghi,---,"","",60,102,0.37,7,dnq
+1984,CLE,Phil Seghi,---,"","",75,87,0.463,6,dnq
+1983,CLE,Phil Seghi,---,"","",70,92,0.432,7,dnq
+1982,CLE,Phil Seghi,---,"","",78,84,0.481,7,dnq
+1981,CLE,Phil Seghi,---,"","",52,51,0.505,0,dnq
+1980,CLE,Phil Seghi,---,"","",79,81,0.494,6,dnq
+1979,CLE,Phil Seghi,---,"","",81,80,0.503,6,dnq
+1978,CLE,Phil Seghi,---,"","",69,90,0.434,6,dnq
+1977,CLE,Phil Seghi,---,"","",71,90,0.441,5,dnq
+1976,CLE,Phil Seghi,---,"","",81,78,0.509,4,dnq
+1975,CLE,Phil Seghi,---,"","",79,80,0.497,4,dnq
+1974,CLE,Phil Seghi,---,"","",77,85,0.475,4,dnq
+1973,CLE,Phil Seghi,---,"","",71,91,0.438,6,dnq
+1972,CLE,Gabe Paul,---,"","",72,84,0.462,5,dnq
+1971,CLE,Alvin Dark,MLB,1946-1960,1946-1960,60,102,0.37,6,dnq
+1970,CLE,Alvin Dark,MLB,1946-1960,1946-1960,76,86,0.469,5,dnq
+1969,CLE,Gabe Paul,---,"","",62,99,0.385,6,dnq
+1968,CLE,Gabe Paul,---,"","",86,75,0.534,3,dnq
+1967,CLE,Gabe Paul,---,"","",75,87,0.463,8,dnq
+1966,CLE,Gabe Paul,---,"","",81,81,0.5,5,dnq
+1965,CLE,Gabe Paul,---,"","",87,75,0.537,5,dnq
+1964,CLE,Gabe Paul,---,"","",79,83,0.488,7,dnq
+1963,CLE,Gabe Paul,---,"","",79,83,0.488,6,dnq
+1962,CLE,Gabe Paul,---,"","",80,82,0.494,6,dnq
+1960,CLE,Frank Lane,---,"","",76,78,0.494,4,dnq
+1959,CLE,Frank Lane,---,"","",89,65,0.578,2,dnq
+1958,CLE,Frank Lane,---,"","",77,76,0.503,4,dnq
+1957,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,76,77,0.497,6,dnq
+1956,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,88,66,0.571,2,dnq
+1955,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,93,61,0.604,2,dnq
+1954,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,111,43,0.721,1,Lost World Series (Giants)
+1953,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,92,62,0.597,2,dnq
+1952,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,93,61,0.604,2,dnq
+1951,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,93,61,0.604,2,dnq
+1950,CLE,Hank Greenberg,MLB,1930-1947,1930-1947,92,62,0.597,4,dnq
+2021,COL,Jeff Bridich,---,"","",0,0,---,4,---
+2020,COL,Jeff Bridich,---,"","",26,34,0.433,4,dnq
+2019,COL,Jeff Bridich,---,"","",71,91,0.438,4,dnq
+2018,COL,Jeff Bridich,---,"","",91,72,0.558,2,Lost in 1st Round (Brewers)
+2017,COL,Jeff Bridich,---,"","",87,75,0.537,3,Lost NL Wild-Card Game (Diamondbacks)
+2016,COL,Jeff Bridich,---,"","",75,87,0.463,3,dnq
+2015,COL,Jeff Bridich,---,"","",68,94,0.42,5,dnq
+2014,COL,Daniel O'Dowd,---,"","",66,96,0.407,4,dnq
+2013,COL,Daniel O'Dowd,---,"","",74,88,0.457,5,dnq
+2012,COL,Daniel O'Dowd,---,"","",64,98,0.395,5,dnq
+2011,COL,Daniel O'Dowd,---,"","",73,89,0.451,4,dnq
+2010,COL,Daniel O'Dowd,---,"","",83,79,0.512,3,dnq
+2009,COL,Daniel O'Dowd,---,"","",92,70,0.568,2,Lost in NLDS (Philadelphia)
+2008,COL,Daniel O'Dowd,---,"","",74,88,0.457,3,dnq
+2007,COL,Daniel O'Dowd,---,"","",90,73,0.552,2,Lost World Series (Boston)
+2006,COL,Daniel O'Dowd,---,"","",76,86,0.469,5,dnq
+2005,COL,Daniel O'Dowd,---,"","",67,95,0.414,5,dnq
+2004,COL,Daniel O'Dowd,---,"","",68,94,0.42,4,dnq
+2003,COL,Daniel O'Dowd,---,"","",74,88,0.457,4,dnq
+2002,COL,Daniel O'Dowd,---,"","",73,89,0.451,4,dnq
+2001,COL,Daniel O'Dowd,---,"","",73,89,0.451,5,dnq
+2000,COL,Daniel O'Dowd,---,"","",82,80,0.506,4,dnq
+1999,COL,Bob Gebhard,MLB,1971-1974,1971-1974,72,90,0.444,5,dnq
+1998,COL,Bob Gebhard,MLB,1971-1974,1971-1974,77,85,0.475,4,dnq
+1997,COL,Bob Gebhard,MLB,1971-1974,1971-1974,83,79,0.512,3,dnq
+1996,COL,Bob Gebhard,MLB,1971-1974,1971-1974,83,79,0.512,3,dnq
+1995,COL,Bob Gebhard,MLB,1971-1974,1971-1974,77,67,0.535,2,Lost in 1st Round (Braves)
+1994,COL,Bob Gebhard,MLB,1971-1974,1971-1974,53,64,0.453,3,dnq
+1993,COL,Bob Gebhard,MLB,1971-1974,1971-1974,67,95,0.414,6,dnq
+2021,DET,Alberto Avila,Rk,"",1977-1977,0,0,---,5,---
+2020,DET,Alberto Avila,Rk,"",1977-1977,23,35,0.397,5,dnq
+2019,DET,Alberto Avila,Rk,"",1977-1977,47,114,0.292,5,dnq
+2018,DET,Alberto Avila,Rk,"",1977-1977,64,98,0.395,3,dnq
+2017,DET,Alberto Avila,Rk,"",1977-1977,64,98,0.395,5,dnq
+2016,DET,Alberto Avila,Rk,"",1977-1977,86,75,0.534,2,dnq
+2015,DET,Dave Dombrowski,---,"","",74,87,0.46,5,dnq
+2014,DET,Dave Dombrowski,---,"","",90,72,0.556,1,Lost in 1st Round (Orioles)
+2013,DET,Dave Dombrowski,---,"","",93,69,0.574,1,Lost in ALCS (Red Sox)
+2012,DET,Dave Dombrowski,---,"","",88,74,0.543,1,Lost World Series (Giants)
+2011,DET,Dave Dombrowski,---,"","",95,67,0.586,1,Lost in ALCS (Rangers)
+2010,DET,Dave Dombrowski,---,"","",81,81,0.5,3,dnq
+2009,DET,Dave Dombrowski,---,"","",86,77,0.528,2,dnq
+2008,DET,Dave Dombrowski,---,"","",74,88,0.457,5,dnq
+2007,DET,Dave Dombrowski,---,"","",88,74,0.543,2,dnq
+2006,DET,Dave Dombrowski,---,"","",95,67,0.586,2,Lost World Series (Cardinals)
+2005,DET,Dave Dombrowski,---,"","",71,91,0.438,4,dnq
+2004,DET,Dave Dombrowski,---,"","",72,90,0.444,4,dnq
+2003,DET,Dave Dombrowski,---,"","",43,119,0.265,5,dnq
+2002,DET,Randy Smith,---,"","",55,106,0.342,5,dnq
+2001,DET,Randy Smith,---,"","",66,96,0.407,4,dnq
+2000,DET,Randy Smith,---,"","",79,83,0.488,3,dnq
+1999,DET,Randy Smith,---,"","",69,92,0.429,3,dnq
+1998,DET,Randy Smith,---,"","",65,97,0.401,5,dnq
+1997,DET,Randy Smith,---,"","",79,83,0.488,3,dnq
+1996,DET,Randy Smith,---,"","",53,109,0.327,5,dnq
+1995,DET,Joe Klein,---,"","",60,84,0.417,4,dnq
+1994,DET,Joe Klein,---,"","",53,62,0.461,5,dnq
+1993,DET,Jerry Walker,MLB,1957-1964,1957-1964,85,77,0.525,4,dnq
+1992,DET,Joe McDonald,---,"","",75,87,0.463,6,dnq
+1991,DET,Joe McDonald,---,"","",84,78,0.519,2,dnq
+1990,DET,Bill Lajoie,---,"","",79,83,0.488,3,dnq
+1989,DET,Bill Lajoie,---,"","",59,103,0.364,7,dnq
+1988,DET,Bill Lajoie,---,"","",88,74,0.543,2,dnq
+1987,DET,Bill Lajoie,---,"","",98,64,0.605,1,Lost ALCS (Twins)
+1986,DET,Bill Lajoie,---,"","",87,75,0.537,3,dnq
+1985,DET,Bill Lajoie,---,"","",84,77,0.522,3,dnq
+1984,DET,Bill Lajoie,---,"","",104,58,0.642,1,Won World Series (Padres)
+1983,DET,Jim Campbell,---,"","",92,70,0.568,2,dnq
+1982,DET,Jim Campbell,---,"","",83,79,0.512,4,dnq
+1981,DET,Jim Campbell,---,"","",60,49,0.55,0,dnq
+1980,DET,Jim Campbell,---,"","",84,78,0.519,5,dnq
+1979,DET,Jim Campbell,---,"","",85,76,0.528,5,dnq
+1978,DET,Jim Campbell,---,"","",86,76,0.531,5,dnq
+1977,DET,Jim Campbell,---,"","",74,88,0.457,4,dnq
+1976,DET,Jim Campbell,---,"","",74,87,0.46,5,dnq
+1975,DET,Jim Campbell,---,"","",57,102,0.358,6,dnq
+1974,DET,Jim Campbell,---,"","",72,90,0.444,6,dnq
+1973,DET,Jim Campbell,---,"","",85,77,0.525,3,dnq
+1972,DET,Jim Campbell,---,"","",86,70,0.551,1,Lost ALCS (Athletics)
+1971,DET,Jim Campbell,---,"","",91,71,0.562,2,dnq
+1970,DET,Jim Campbell,---,"","",79,83,0.488,4,dnq
+1969,DET,Jim Campbell,---,"","",90,72,0.556,2,dnq
+1968,DET,Jim Campbell,---,"","",103,59,0.636,1,Won World Series (Cardinals)
+1967,DET,Jim Campbell,---,"","",91,71,0.562,3,dnq
+1966,DET,Jim Campbell,---,"","",88,74,0.543,3,dnq
+1965,DET,Jim Campbell,---,"","",89,73,0.549,4,dnq
+1964,DET,Jim Campbell,---,"","",85,77,0.525,4,dnq
+1963,DET,Jim Campbell,---,"","",79,83,0.488,5,dnq
+1962,DET,Rick Ferrell,MLB,1929-1947,1929-1947,85,76,0.528,4,dnq
+1961,DET,Rick Ferrell,MLB,1929-1947,1929-1947,101,61,0.623,2,dnq
+1960,DET,Rick Ferrell,MLB,1929-1947,1929-1947,71,83,0.461,6,dnq
+1959,DET,Rick Ferrell,MLB,1929-1947,1929-1947,76,78,0.494,4,dnq
+1958,DET,John McHale,MLB,1943-1948,1943-1948,77,77,0.5,5,dnq
+1957,DET,John McHale,MLB,1943-1948,1943-1948,78,76,0.506,4,dnq
+1957,DET,Walter Briggs,---,"","",78,76,0.506,4,dnq
+1956,DET,Muddy Ruel,MLB,1915-1934,1915-1934,82,72,0.532,5,dnq
+1955,DET,Muddy Ruel,MLB,1915-1934,1915-1934,79,75,0.513,5,dnq
+1954,DET,Muddy Ruel,MLB,1915-1934,1915-1934,68,86,0.442,5,dnq
+1953,DET,Charlie Gehringer,MLB,1924-1942,1924-1942,60,94,0.39,6,dnq
+1952,DET,Charlie Gehringer,MLB,1924-1942,1924-1942,50,104,0.325,8,dnq
+1951,DET,Billy Evans,---,"","",73,81,0.474,5,dnq
+1950,DET,Billy Evans,---,"","",95,59,0.617,2,dnq
+2021,HOU,James Click,---,"","",0,0,---,2,---
+2020,HOU,James Click,---,"","",29,31,0.483,2,Lost in ALCS (Rays)
+2019,HOU,Jeff Luhnow,---,"","",107,55,0.66,1,Lost World Series (Nationals)
+2018,HOU,Jeff Luhnow,---,"","",103,59,0.636,1,Lost in ALCS (Red Sox)
+2017,HOU,Jeff Luhnow,---,"","",101,61,0.623,1,Won World Series (Dodgers)
+2016,HOU,Jeff Luhnow,---,"","",84,78,0.519,3,dnq
+2015,HOU,Jeff Luhnow,---,"","",86,76,0.531,2,Lost in 1st Round (Royals)
+2014,HOU,Jeff Luhnow,---,"","",70,92,0.432,4,dnq
+2013,HOU,Jeff Luhnow,---,"","",51,111,0.315,5,dnq
+2012,HOU,Jeff Luhnow,---,"","",55,107,0.34,6,dnq
+2011,HOU,Ed Wade,---,"","",56,106,0.346,6,dnq
+2010,HOU,Ed Wade,---,"","",76,86,0.469,4,dnq
+2009,HOU,Ed Wade,---,"","",74,88,0.457,5,dnq
+2008,HOU,Ed Wade,---,"","",86,75,0.534,3,dnq
+2007,HOU,Ed Wade,---,"","",73,89,0.451,4,dnq
+2006,HOU,Tim Purpura,---,"","",82,80,0.506,2,dnq
+2005,HOU,Tim Purpura,---,"","",89,73,0.549,2,Lost World Series (White Sox)
+2004,HOU,Gerry Hunsicker,---,"","",92,70,0.568,2,Lost NLCS (Cardinals)
+2003,HOU,Gerry Hunsicker,---,"","",87,75,0.537,2,dnq
+2002,HOU,Gerry Hunsicker,---,"","",84,78,0.519,2,dnq
+2001,HOU,Gerry Hunsicker,---,"","",93,69,0.574,1,Lost in 1st Round (Braves)
+2000,HOU,Gerry Hunsicker,---,"","",72,90,0.444,4,dnq
+1999,HOU,Gerry Hunsicker,---,"","",97,65,0.599,1,Lost in 1st Round (Braves)
+1998,HOU,Gerry Hunsicker,---,"","",102,60,0.63,1,Lost in 1st Round (Padres)
+1997,HOU,Gerry Hunsicker,---,"","",84,78,0.519,1,Lost in 1st Round (Braves)
+1996,HOU,Gerry Hunsicker,---,"","",82,80,0.506,2,dnq
+1995,HOU,Bob Watson,MLB,1966-1984,1966-1984,76,68,0.528,2,dnq
+1994,HOU,Bob Watson,MLB,1966-1984,1966-1984,66,49,0.574,2,dnq
+1993,HOU,Bill Wood,---,"","",85,77,0.525,3,dnq
+1992,HOU,Bill Wood,---,"","",81,81,0.5,4,dnq
+1991,HOU,Bill Wood,---,"","",65,97,0.401,6,dnq
+1990,HOU,Bill Wood,---,"","",75,87,0.463,5,dnq
+1989,HOU,Bill Wood,---,"","",86,76,0.531,3,dnq
+1988,HOU,Bill Wood,---,"","",82,80,0.506,5,dnq
+1987,HOU,Dick Wagner,---,"","",76,86,0.469,3,dnq
+1986,HOU,Dick Wagner,---,"","",96,66,0.593,1,Lost NLCS (Mets)
+1985,HOU,Al Rosen,MLB,1947-1956,1947-1956,83,79,0.512,4,dnq
+1984,HOU,Al Rosen,MLB,1947-1956,1947-1956,80,82,0.494,2,dnq
+1983,HOU,Al Rosen,MLB,1947-1956,1947-1956,85,77,0.525,3,dnq
+1982,HOU,Al Rosen,MLB,1947-1956,1947-1956,77,85,0.475,5,dnq
+1981,HOU,Al Rosen,MLB,1947-1956,1947-1956,61,49,0.555,0,Lost in 1st Round (Dodgers)
+1980,HOU,Tal Smith,---,"","",93,70,0.571,1,Lost NLCS (Phillies)
+1979,HOU,Tal Smith,---,"","",89,73,0.549,2,dnq
+1978,HOU,Tal Smith,---,"","",74,88,0.457,5,dnq
+1977,HOU,Tal Smith,---,"","",81,81,0.5,3,dnq
+1976,HOU,Tal Smith,---,"","",80,82,0.494,3,dnq
+1975,HOU,Spec Richardson,---,"","",64,97,0.398,6,dnq
+1974,HOU,Spec Richardson,---,"","",81,81,0.5,4,dnq
+1973,HOU,Spec Richardson,---,"","",82,80,0.506,4,dnq
+1972,HOU,Spec Richardson,---,"","",84,69,0.549,2,dnq
+1971,HOU,Spec Richardson,---,"","",79,83,0.488,4,dnq
+1970,HOU,Spec Richardson,---,"","",79,83,0.488,4,dnq
+1969,HOU,Spec Richardson,---,"","",81,81,0.5,5,dnq
+1968,HOU,Spec Richardson,---,"","",72,90,0.444,10,dnq
+1967,HOU,Tal Smith,---,"","",69,93,0.426,9,dnq
+1966,HOU,Tal Smith,---,"","",72,90,0.444,8,dnq
+1965,HOU,Paul Richards,MLB,1932-1946,1932-1946,65,97,0.401,9,dnq
+1964,HOU,Paul Richards,MLB,1932-1946,1932-1946,66,96,0.407,9,dnq
+1963,HOU,Paul Richards,MLB,1932-1946,1932-1946,66,96,0.407,9,dnq
+1962,HOU,Paul Richards,MLB,1932-1946,1932-1946,64,96,0.4,8,dnq
+2021,KCR,Dayton Moore,---,"","",0,0,---,4,---
+2020,KCR,Dayton Moore,---,"","",26,34,0.433,4,dnq
+2019,KCR,Dayton Moore,---,"","",59,103,0.364,4,dnq
+2018,KCR,Dayton Moore,---,"","",58,104,0.358,5,dnq
+2017,KCR,Dayton Moore,---,"","",80,82,0.494,3,dnq
+2016,KCR,Dayton Moore,---,"","",81,81,0.5,3,dnq
+2015,KCR,Dayton Moore,---,"","",95,67,0.586,1,Won World Series (Mets)
+2014,KCR,Dayton Moore,---,"","",89,73,0.549,2,Lost World Series (Giants)
+2013,KCR,Dayton Moore,---,"","",86,76,0.531,3,dnq
+2012,KCR,Dayton Moore,---,"","",72,90,0.444,3,dnq
+2011,KCR,Dayton Moore,---,"","",71,91,0.438,4,dnq
+2010,KCR,Dayton Moore,---,"","",67,95,0.414,5,dnq
+2009,KCR,Dayton Moore,---,"","",65,97,0.401,5,dnq
+2008,KCR,Dayton Moore,---,"","",75,87,0.463,4,dnq
+2007,KCR,Dayton Moore,---,"","",69,93,0.426,5,dnq
+2006,KCR,Allard Baird,---,"","",62,100,0.383,5,dnq
+2006,KCR,Dayton Moore,---,"","",62,100,0.383,5,dnq
+2005,KCR,Allard Baird,---,"","",56,106,0.346,5,dnq
+2004,KCR,Allard Baird,---,"","",58,104,0.358,5,dnq
+2003,KCR,Allard Baird,---,"","",83,79,0.512,3,dnq
+2002,KCR,Allard Baird,---,"","",62,100,0.383,4,dnq
+2001,KCR,Allard Baird,---,"","",65,97,0.401,5,dnq
+2000,KCR,Herk Robinson,---,"","",77,85,0.475,4,dnq
+2000,KCR,Allard Baird,---,"","",77,85,0.475,4,dnq
+1999,KCR,Herk Robinson,---,"","",64,97,0.398,4,dnq
+1998,KCR,Herk Robinson,---,"","",72,89,0.447,3,dnq
+1997,KCR,Herk Robinson,---,"","",67,94,0.416,5,dnq
+1996,KCR,Herk Robinson,---,"","",75,86,0.466,5,dnq
+1995,KCR,Herk Robinson,---,"","",70,74,0.486,2,dnq
+1994,KCR,Herk Robinson,---,"","",64,51,0.557,3,dnq
+1993,KCR,Herk Robinson,---,"","",84,78,0.519,3,dnq
+1992,KCR,Herk Robinson,---,"","",72,90,0.444,5,dnq
+1991,KCR,Herk Robinson,---,"","",82,80,0.506,6,dnq
+1990,KCR,John Schuerholz,---,"","",75,86,0.466,6,dnq
+1989,KCR,John Schuerholz,---,"","",92,70,0.568,2,dnq
+1988,KCR,John Schuerholz,---,"","",84,77,0.522,3,dnq
+1987,KCR,John Schuerholz,---,"","",83,79,0.512,2,dnq
+1986,KCR,John Schuerholz,---,"","",76,86,0.469,3,dnq
+1985,KCR,John Schuerholz,---,"","",91,71,0.562,1,Won World Series (Cardinals)
+1984,KCR,John Schuerholz,---,"","",84,78,0.519,1,Lost ALCS (Tigers)
+1983,KCR,John Schuerholz,---,"","",79,83,0.488,2,dnq
+1982,KCR,John Schuerholz,---,"","",90,72,0.556,2,dnq
+1981,KCR,Joe Burke,---,"","",50,53,0.485,0,Lost in 1st Round (Athletics)
+1980,KCR,Joe Burke,---,"","",97,65,0.599,1,Lost World Series (Phillies)
+1979,KCR,Joe Burke,---,"","",85,77,0.525,2,dnq
+1978,KCR,Joe Burke,---,"","",92,70,0.568,1,Lost ALCS (Yankees)
+1977,KCR,Joe Burke,---,"","",102,60,0.63,1,Lost ALCS (Yankees)
+1976,KCR,Joe Burke,---,"","",90,72,0.556,1,Lost ALCS (Yankees)
+1975,KCR,Joe Burke,---,"","",91,71,0.562,2,dnq
+1974,KCR,Cedric Tallis,---,"","",77,85,0.475,5,dnq
+1973,KCR,Cedric Tallis,---,"","",88,74,0.543,2,dnq
+1972,KCR,Cedric Tallis,---,"","",76,78,0.494,4,dnq
+1971,KCR,Cedric Tallis,---,"","",85,76,0.528,2,dnq
+1970,KCR,Cedric Tallis,---,"","",65,97,0.401,4,dnq
+1969,KCR,Cedric Tallis,---,"","",69,93,0.426,4,dnq
+2021,LAA,Perry Minasian,---,"","",0,0,---,4,---
+2020,LAA,Billy Eppler,---,"","",26,34,0.433,4,dnq
+2019,LAA,Billy Eppler,---,"","",72,90,0.444,4,dnq
+2018,LAA,Billy Eppler,---,"","",80,82,0.494,4,dnq
+2017,LAA,Billy Eppler,---,"","",80,82,0.494,2,dnq
+2016,LAA,Billy Eppler,---,"","",74,88,0.457,4,dnq
+2015,LAA,Jerry Dipoto,MLB,1993-2000,1988-2000,85,77,0.525,3,dnq
+2014,LAA,Jerry Dipoto,MLB,1993-2000,1988-2000,98,64,0.605,1,Lost in 1st Round (Angels)
+2013,LAA,Jerry Dipoto,MLB,1993-2000,1988-2000,78,84,0.481,3,dnq
+2012,LAA,Jerry Dipoto,MLB,1993-2000,1988-2000,89,73,0.549,0,dnq
+2011,LAA,Tony Reagins,---,"","",86,76,0.531,2,dnq
+2010,LAA,Tony Reagins,---,"","",80,82,0.494,3,dnq
+2009,LAA,Tony Reagins,---,"","",97,65,0.599,1,Lost in ALCS (NY Yankees)
+2008,LAA,Tony Reagins,---,"","",100,62,0.617,1,Lost in ALDS (Boston)
+2007,LAA,Bill Stoneman,MLB,1967-1974,1967-1974,94,68,0.58,1,Lost in ALDS (Boston)
+2006,LAA,Bill Stoneman,MLB,1967-1974,1967-1974,89,73,0.549,2,dnq
+2005,LAA,Bill Stoneman,MLB,1967-1974,1967-1974,95,67,0.586,1,Lost ALCS (White Sox)
+2004,ANA,Bill Stoneman,MLB,1967-1974,1967-1974,92,70,0.568,1,Lost in 1st Round (Red Sox)
+2003,ANA,Bill Stoneman,MLB,1967-1974,1967-1974,77,85,0.475,3,dnq
+2002,ANA,Bill Stoneman,MLB,1967-1974,1967-1974,99,63,0.611,2,Won World Series (Giants)
+2001,ANA,Bill Stoneman,MLB,1967-1974,1967-1974,75,87,0.463,3,dnq
+2000,ANA,Bill Stoneman,MLB,1967-1974,1967-1974,82,80,0.506,3,dnq
+1999,ANA,Bill Bavasi,---,"","",70,92,0.432,4,dnq
+1998,ANA,Bill Bavasi,---,"","",85,77,0.525,2,dnq
+1997,ANA,Bill Bavasi,---,"","",84,78,0.519,2,dnq
+1996,CAL,Bill Bavasi,---,"","",70,91,0.435,4,dnq
+1995,CAL,Bill Bavasi,---,"","",78,67,0.538,2,dnq
+1994,CAL,Bill Bavasi,---,"","",47,68,0.409,4,dnq
+1993,CAL,Dan O'Brien,---,"","",71,91,0.438,5,dnq
+1992,CAL,Dan O'Brien,---,"","",72,90,0.444,6,dnq
+1991,CAL,Mike Port,---,"","",81,81,0.5,7,dnq
+1990,CAL,Mike Port,---,"","",80,82,0.494,4,dnq
+1989,CAL,Mike Port,---,"","",91,71,0.562,3,dnq
+1988,CAL,Mike Port,---,"","",75,87,0.463,4,dnq
+1987,CAL,Mike Port,---,"","",75,87,0.463,7,dnq
+1986,CAL,Mike Port,---,"","",92,70,0.568,1,Lost ALCS (Red Sox)
+1985,CAL,Mike Port,---,"","",90,72,0.556,2,dnq
+1984,CAL,Buzzie Bavasi,---,"","",81,81,0.5,2,dnq
+1983,CAL,Buzzie Bavasi,---,"","",70,92,0.432,5,dnq
+1982,CAL,Buzzie Bavasi,---,"","",93,69,0.574,1,Lost ALCS (Brewers)
+1981,CAL,Buzzie Bavasi,---,"","",51,59,0.464,0,dnq
+1980,CAL,Buzzie Bavasi,---,"","",65,95,0.406,6,dnq
+1979,CAL,Buzzie Bavasi,---,"","",88,74,0.543,1,Lost ALCS (Orioles)
+1978,CAL,Buzzie Bavasi,---,"","",87,75,0.537,3,dnq
+1977,CAL,Harry Dalton,---,"","",74,88,0.457,5,dnq
+1976,CAL,Harry Dalton,---,"","",76,86,0.469,5,dnq
+1975,CAL,Harry Dalton,---,"","",72,89,0.447,6,dnq
+1974,CAL,Harry Dalton,---,"","",68,94,0.42,6,dnq
+1973,CAL,Harry Dalton,---,"","",79,83,0.488,4,dnq
+1972,CAL,Harry Dalton,---,"","",75,80,0.484,5,dnq
+1971,CAL,Dick Walsh,---,"","",76,86,0.469,4,dnq
+1970,CAL,Dick Walsh,---,"","",86,76,0.531,3,dnq
+1969,CAL,Dick Walsh,---,"","",71,91,0.438,3,dnq
+1968,CAL,Fred Haney,MLB,1922-1929,1922-1929,67,95,0.414,8,dnq
+1967,CAL,Fred Haney,MLB,1922-1929,1922-1929,84,77,0.522,5,dnq
+1966,CAL,Fred Haney,MLB,1922-1929,1922-1929,80,82,0.494,6,dnq
+1965,CAL,Fred Haney,MLB,1922-1929,1922-1929,75,87,0.463,7,dnq
+1964,LAA,Fred Haney,MLB,1922-1929,1922-1929,82,80,0.506,5,dnq
+1963,LAA,Fred Haney,MLB,1922-1929,1922-1929,70,91,0.435,9,dnq
+1962,LAA,Fred Haney,MLB,1922-1929,1922-1929,86,76,0.531,3,dnq
+1961,LAA,Fred Haney,MLB,1922-1929,1922-1929,70,91,0.435,8,dnq
+2018,LAD,Farhan Zaidi,---,"","",92,71,0.564,1,Lost World Series (Red Sox)
+2017,LAD,Farhan Zaidi,---,"","",104,58,0.642,1,Lost World Series (Astros)
+2016,LAD,Farhan Zaidi,---,"","",91,71,0.562,1,Lost in NLCS (Cubs)
+2015,LAD,Farhan Zaidi,---,"","",92,70,0.568,1,Lost in 1st Round (Mets)
+2014,LAD,Ned Colletti,---,"","",94,68,0.58,1,Lost in 1st Round (Cardinals)
+2013,LAD,Ned Colletti,---,"","",92,70,0.568,1,Lost in NLCS (Cardinals)
+2012,LAD,Ned Colletti,---,"","",86,76,0.531,2,dnq
+2011,LAD,Ned Colletti,---,"","",82,79,0.509,3,dnq
+2010,LAD,Ned Colletti,---,"","",80,82,0.494,4,dnq
+2009,LAD,Ned Colletti,---,"","",95,67,0.586,1,Lost in NLCS (Philadelphia)
+2008,LAD,Ned Colletti,---,"","",84,78,0.519,1,Lost in NLCS (Philadelphia)
+2007,LAD,Ned Colletti,---,"","",82,80,0.506,4,dnq
+2006,LAD,Ned Colletti,---,"","",88,74,0.543,2,Lost NLDS (Mets)
+2005,LAD,Paul DePodesta,---,"","",71,91,0.438,4,dnq
+2004,LAD,Paul DePodesta,---,"","",93,69,0.574,1,Lost in 1st Round (Cardinals)
+2003,LAD,Dan Evans,---,"","",85,77,0.525,2,dnq
+2002,LAD,Dan Evans,---,"","",92,70,0.568,3,dnq
+2001,LAD,Kevin Malone,A-,"",1979-1980,86,76,0.531,3,dnq
+2000,LAD,Kevin Malone,A-,"",1979-1980,86,76,0.531,2,dnq
+1999,LAD,Kevin Malone,A-,"",1979-1980,77,85,0.475,3,dnq
+1998,LAD,Fred Claire,---,"","",83,79,0.512,3,dnq
+1997,LAD,Fred Claire,---,"","",88,74,0.543,2,dnq
+1996,LAD,Fred Claire,---,"","",90,72,0.556,2,Lost in 1st Round (Braves)
+1995,LAD,Fred Claire,---,"","",78,66,0.542,1,Lost in 1st Round (Reds)
+1994,LAD,Fred Claire,---,"","",58,56,0.509,1,dnq
+1993,LAD,Fred Claire,---,"","",81,81,0.5,4,dnq
+1992,LAD,Fred Claire,---,"","",63,99,0.389,6,dnq
+1991,LAD,Fred Claire,---,"","",93,69,0.574,2,dnq
+1990,LAD,Fred Claire,---,"","",86,76,0.531,2,dnq
+1989,LAD,Fred Claire,---,"","",77,83,0.481,4,dnq
+1988,LAD,Fred Claire,---,"","",94,67,0.584,1,Won World Series (Athletics)
+1987,LAD,Al Campanis,MLB,1943-1943,1943-1943,73,89,0.451,4,dnq
+1986,LAD,Al Campanis,MLB,1943-1943,1943-1943,73,89,0.451,5,dnq
+1985,LAD,Al Campanis,MLB,1943-1943,1943-1943,95,67,0.586,1,Lost NLCS (Cardinals)
+1984,LAD,Al Campanis,MLB,1943-1943,1943-1943,79,83,0.488,4,dnq
+1983,LAD,Al Campanis,MLB,1943-1943,1943-1943,91,71,0.562,1,Lost NLCS (Phillies)
+1982,LAD,Al Campanis,MLB,1943-1943,1943-1943,88,74,0.543,2,dnq
+1981,LAD,Al Campanis,MLB,1943-1943,1943-1943,63,47,0.573,0,Won World Series (Yankees)
+1980,LAD,Al Campanis,MLB,1943-1943,1943-1943,92,71,0.564,2,dnq
+1979,LAD,Al Campanis,MLB,1943-1943,1943-1943,79,83,0.488,3,dnq
+1978,LAD,Al Campanis,MLB,1943-1943,1943-1943,95,67,0.586,1,Lost World Series (Yankees)
+1977,LAD,Al Campanis,MLB,1943-1943,1943-1943,98,64,0.605,1,Lost World Series (Yankees)
+1976,LAD,Al Campanis,MLB,1943-1943,1943-1943,92,70,0.568,2,dnq
+1975,LAD,Al Campanis,MLB,1943-1943,1943-1943,88,74,0.543,2,dnq
+1974,LAD,Al Campanis,MLB,1943-1943,1943-1943,102,60,0.63,1,Lost World Series (Athletics)
+1973,LAD,Al Campanis,MLB,1943-1943,1943-1943,95,66,0.59,2,dnq
+1972,LAD,Al Campanis,MLB,1943-1943,1943-1943,85,70,0.548,3,dnq
+1971,LAD,Al Campanis,MLB,1943-1943,1943-1943,89,73,0.549,2,dnq
+1970,LAD,Al Campanis,MLB,1943-1943,1943-1943,87,74,0.54,2,dnq
+1969,LAD,Al Campanis,MLB,1943-1943,1943-1943,85,77,0.525,4,dnq
+1968,LAD,Buzzie Bavasi,---,"","",76,86,0.469,8,dnq
+1967,LAD,Buzzie Bavasi,---,"","",73,89,0.451,8,dnq
+1966,LAD,Buzzie Bavasi,---,"","",95,67,0.586,1,Lost World Series (Orioles)
+1965,LAD,Buzzie Bavasi,---,"","",97,65,0.599,1,Won World Series (Twins)
+1964,LAD,Buzzie Bavasi,---,"","",80,82,0.494,7,dnq
+1963,LAD,Buzzie Bavasi,---,"","",99,63,0.611,1,Won World Series (Yankees)
+1962,LAD,Buzzie Bavasi,---,"","",102,63,0.618,2,dnq
+1961,LAD,Buzzie Bavasi,---,"","",89,65,0.578,2,dnq
+1960,LAD,Buzzie Bavasi,---,"","",82,72,0.532,4,dnq
+1959,LAD,Buzzie Bavasi,---,"","",88,68,0.564,1,Won World Series (White Sox)
+1958,LAD,Buzzie Bavasi,---,"","",71,83,0.461,7,dnq
+1957,BRO,Buzzie Bavasi,---,"","",84,70,0.545,3,dnq
+1956,BRO,Buzzie Bavasi,---,"","",93,61,0.604,1,Lost World Series (Yankees)
+1955,BRO,Buzzie Bavasi,---,"","",98,55,0.641,1,Won World Series (Yankees)
+1954,BRO,Buzzie Bavasi,---,"","",92,62,0.597,2,dnq
+1953,BRO,Buzzie Bavasi,---,"","",105,49,0.682,1,Lost World Series (Yankees)
+1952,BRO,Buzzie Bavasi,---,"","",96,57,0.627,1,Lost World Series (Yankees)
+1951,BRO,Buzzie Bavasi,---,"","",97,60,0.618,2,dnq
+1950,BRO,Branch Rickey,MLB,1905-1914,1905-1914,89,65,0.578,2,dnq
+2021,MIA,Kim Ng,---,"","",0,0,---,2,---
+2020,MIA,Michael Hill,A-,"",1992-1994,31,29,0.517,2,Lost in Division Series (Braves)
+2019,MIA,Michael Hill,A-,"",1992-1994,57,105,0.352,5,dnq
+2018,MIA,Michael Hill,A-,"",1992-1994,63,98,0.391,5,dnq
+2017,MIA,Michael Hill,A-,"",1992-1994,77,85,0.475,2,dnq
+2016,MIA,Michael Hill,A-,"",1992-1994,79,82,0.491,3,dnq
+2015,MIA,Dan Jennings,---,"","",71,91,0.438,3,dnq
+2015,MIA,Mike Berger,AAA,"",1980-1993,71,91,0.438,3,dnq
+2014,MIA,Dan Jennings,---,"","",77,85,0.475,4,dnq
+2013,MIA,Michael Hill,A-,"",1992-1994,62,100,0.383,5,dnq
+2012,MIA,Michael Hill,A-,"",1992-1994,69,93,0.426,5,dnq
+2011,FLA,Michael Hill,A-,"",1992-1994,72,90,0.444,5,dnq
+2010,FLA,Michael Hill,A-,"",1992-1994,80,82,0.494,3,dnq
+2009,FLA,Michael Hill,A-,"",1992-1994,87,75,0.537,2,dnq
+2008,FLA,Michael Hill,A-,"",1992-1994,84,77,0.522,3,dnq
+2007,FLA,Larry Beinfest,NCAA,"",1984-1984,71,91,0.438,5,dnq
+2006,FLA,Larry Beinfest,NCAA,"",1984-1984,78,84,0.481,4,dnq
+2005,FLA,Larry Beinfest,NCAA,"",1984-1984,83,79,0.512,3,dnq
+2004,FLA,Larry Beinfest,NCAA,"",1984-1984,83,79,0.512,3,dnq
+2003,FLA,Larry Beinfest,NCAA,"",1984-1984,91,71,0.562,2,Won World Series (Yankees)
+2002,FLA,Larry Beinfest,NCAA,"",1984-1984,79,83,0.488,4,dnq
+2001,FLA,Dave Dombrowski,---,"","",76,86,0.469,4,dnq
+2000,FLA,Dave Dombrowski,---,"","",79,82,0.491,3,dnq
+1999,FLA,Dave Dombrowski,---,"","",64,98,0.395,5,dnq
+1998,FLA,Dave Dombrowski,---,"","",54,108,0.333,5,dnq
+1997,FLA,Dave Dombrowski,---,"","",92,70,0.568,2,Won World Series (Indians)
+1996,FLA,Dave Dombrowski,---,"","",80,82,0.494,3,dnq
+1995,FLA,Dave Dombrowski,---,"","",67,76,0.469,4,dnq
+1994,FLA,Dave Dombrowski,---,"","",51,64,0.443,5,dnq
+1993,FLA,Dave Dombrowski,---,"","",64,98,0.395,6,dnq
+2021,MIL,Matt Arnold,---,"","",0,0,---,4,---
+2020,MIL,David Stearns,---,"","",29,31,0.483,4,Lost in Wild Card Series (Dodgers)
+2019,MIL,David Stearns,---,"","",89,73,0.549,2,Lost NL Wild-Card Game (Nationals)
+2018,MIL,David Stearns,---,"","",96,67,0.589,1,Lost in NLCS (Dodgers)
+2017,MIL,David Stearns,---,"","",86,76,0.531,2,dnq
+2016,MIL,David Stearns,---,"","",73,89,0.451,4,dnq
+2015,MIL,Douglas Melvin,AA,"",1977-1978,68,94,0.42,4,dnq
+2014,MIL,Douglas Melvin,AA,"",1977-1978,82,80,0.506,3,dnq
+2013,MIL,Douglas Melvin,AA,"",1977-1978,74,88,0.457,4,dnq
+2012,MIL,Douglas Melvin,AA,"",1977-1978,83,79,0.512,3,dnq
+2011,MIL,Douglas Melvin,AA,"",1977-1978,96,66,0.593,1,Lost in NLCS (Cardinals)
+2010,MIL,Douglas Melvin,AA,"",1977-1978,77,85,0.475,3,dnq
+2009,MIL,Douglas Melvin,AA,"",1977-1978,80,82,0.494,3,dnq
+2008,MIL,Douglas Melvin,AA,"",1977-1978,90,72,0.556,2,Lost in NLDS (Philadelphia)
+2007,MIL,Douglas Melvin,AA,"",1977-1978,83,79,0.512,2,dnq
+2006,MIL,Douglas Melvin,AA,"",1977-1978,75,87,0.463,4,dnq
+2005,MIL,Douglas Melvin,AA,"",1977-1978,81,81,0.5,3,dnq
+2004,MIL,Douglas Melvin,AA,"",1977-1978,67,94,0.416,6,dnq
+2003,MIL,Douglas Melvin,AA,"",1977-1978,68,94,0.42,6,dnq
+2002,MIL,Dean Taylor,---,"","",56,106,0.346,6,dnq
+2001,MIL,Dean Taylor,---,"","",68,94,0.42,4,dnq
+2000,MIL,Dean Taylor,---,"","",73,89,0.451,3,dnq
+1999,MIL,Sal Bando,MLB,1966-1981,1966-1981,74,87,0.46,5,dnq
+1998,MIL,Sal Bando,MLB,1966-1981,1966-1981,74,88,0.457,5,dnq
+1997,MIL,Sal Bando,MLB,1966-1981,1966-1981,78,83,0.484,3,dnq
+1996,MIL,Sal Bando,MLB,1966-1981,1966-1981,80,82,0.494,3,dnq
+1995,MIL,Sal Bando,MLB,1966-1981,1966-1981,65,79,0.451,4,dnq
+1994,MIL,Sal Bando,MLB,1966-1981,1966-1981,53,62,0.461,5,dnq
+1993,MIL,Sal Bando,MLB,1966-1981,1966-1981,69,93,0.426,7,dnq
+1992,MIL,Sal Bando,MLB,1966-1981,1966-1981,92,70,0.568,2,dnq
+1991,MIL,Harry Dalton,---,"","",83,79,0.512,4,dnq
+1990,MIL,Harry Dalton,---,"","",74,88,0.457,6,dnq
+1989,MIL,Harry Dalton,---,"","",81,81,0.5,4,dnq
+1988,MIL,Harry Dalton,---,"","",87,75,0.537,4,dnq
+1987,MIL,Harry Dalton,---,"","",91,71,0.562,3,dnq
+1986,MIL,Harry Dalton,---,"","",77,84,0.478,6,dnq
+1985,MIL,Harry Dalton,---,"","",71,90,0.441,6,dnq
+1984,MIL,Harry Dalton,---,"","",67,94,0.416,7,dnq
+1983,MIL,Harry Dalton,---,"","",87,75,0.537,5,dnq
+1982,MIL,Harry Dalton,---,"","",95,67,0.586,1,Lost World Series (Cardinals)
+1981,MIL,Harry Dalton,---,"","",62,47,0.569,0,Lost ALCS (Yankees)
+1980,MIL,Harry Dalton,---,"","",86,76,0.531,3,dnq
+1979,MIL,Harry Dalton,---,"","",95,66,0.59,2,dnq
+1978,MIL,Harry Dalton,---,"","",93,69,0.574,3,dnq
+1977,MIL,Jim Baumer,MLB,1949-1961,1949-1961,67,95,0.414,6,dnq
+1976,MIL,Jim Baumer,MLB,1949-1961,1949-1961,66,95,0.41,6,dnq
+1975,MIL,Jim Baumer,MLB,1949-1961,1949-1961,68,94,0.42,5,dnq
+1974,MIL,Jim Wilson,MLB,1945-1958,1945-1958,76,86,0.469,5,dnq
+1973,MIL,Jim Wilson,MLB,1945-1958,1945-1958,74,88,0.457,5,dnq
+1972,MIL,Frank Lane,---,"","",65,91,0.417,6,dnq
+1971,MIL,Frank Lane,---,"","",69,92,0.429,6,dnq
+1970,MIL,Marvin Milkes,---,"","",65,97,0.401,4,dnq
+1969,SEA,Marvin Milkes,---,"","",64,98,0.395,6,dnq
+2021,MIN,Thad Levine,---,"","",0,0,---,1,---
+2020,MIN,Thad Levine,---,"","",36,24,0.6,1,Lost in Wild Card Series (Astros)
+2019,MIN,Thad Levine,---,"","",101,61,0.623,1,Lost in 1st Round (Yankees)
+2018,MIN,Thad Levine,---,"","",78,84,0.481,2,dnq
+2017,MIN,Derek Falvey,---,"","",85,77,0.525,2,Lost AL Wild-Card Game (Yankees)
+2016,MIN,Rob Antony,---,"","",59,103,0.364,5,dnq
+2016,MIN,Terry Ryan,---,"","",59,103,0.364,5,dnq
+2015,MIN,Terry Ryan,---,"","",83,79,0.512,2,dnq
+2014,MIN,Terry Ryan,---,"","",70,92,0.432,5,dnq
+2013,MIN,Terry Ryan,---,"","",66,96,0.407,4,dnq
+2012,MIN,Terry Ryan,---,"","",66,96,0.407,5,dnq
+2011,MIN,Bill Smith,---,"","",63,99,0.389,5,dnq
+2010,MIN,Bill Smith,---,"","",94,68,0.58,1,Lost in 1st Round (Yankees)
+2009,MIN,Bill Smith,---,"","",87,76,0.534,1,Lost in ALDS (NY Yankees)
+2008,MIN,Bill Smith,---,"","",88,75,0.54,2,dnq
+2007,MIN,Terry Ryan,---,"","",79,83,0.488,3,dnq
+2006,MIN,Terry Ryan,---,"","",96,66,0.593,1,Lost ALDS (Athletics)
+2005,MIN,Terry Ryan,---,"","",83,79,0.512,3,dnq
+2004,MIN,Terry Ryan,---,"","",92,70,0.568,1,Lost in 1st Round (Yankees)
+2003,MIN,Terry Ryan,---,"","",90,72,0.556,1,Lost in 1st Round (Yankees)
+2002,MIN,Terry Ryan,---,"","",94,67,0.584,1,Lost ALCS (Angels)
+2001,MIN,Terry Ryan,---,"","",85,77,0.525,2,dnq
+2000,MIN,Terry Ryan,---,"","",69,93,0.426,5,dnq
+1999,MIN,Terry Ryan,---,"","",63,97,0.394,5,dnq
+1998,MIN,Terry Ryan,---,"","",70,92,0.432,4,dnq
+1997,MIN,Terry Ryan,---,"","",68,94,0.42,4,dnq
+1996,MIN,Terry Ryan,---,"","",78,84,0.481,4,dnq
+1995,MIN,Terry Ryan,---,"","",56,88,0.389,5,dnq
+1994,MIN,Andy MacPhail,---,"","",53,60,0.469,4,dnq
+1993,MIN,Andy MacPhail,---,"","",71,91,0.438,6,dnq
+1992,MIN,Andy MacPhail,---,"","",90,72,0.556,2,dnq
+1991,MIN,Andy MacPhail,---,"","",95,67,0.586,1,Won World Series (Braves)
+1990,MIN,Andy MacPhail,---,"","",74,88,0.457,7,dnq
+1989,MIN,Andy MacPhail,---,"","",80,82,0.494,5,dnq
+1988,MIN,Andy MacPhail,---,"","",91,71,0.562,2,dnq
+1987,MIN,Andy MacPhail,---,"","",85,77,0.525,1,Won World Series (Cardinals)
+1986,MIN,Andy MacPhail,---,"","",71,91,0.438,6,dnq
+1985,MIN,Howard Fox,---,"","",77,85,0.475,4,dnq
+1984,MIN,Calvin Griffith,---,"","",81,81,0.5,3,dnq
+1983,MIN,Calvin Griffith,---,"","",70,92,0.432,6,dnq
+1982,MIN,Calvin Griffith,---,"","",60,102,0.37,7,dnq
+1981,MIN,Calvin Griffith,---,"","",41,68,0.376,0,dnq
+1980,MIN,Calvin Griffith,---,"","",77,84,0.478,3,dnq
+1979,MIN,Calvin Griffith,---,"","",82,80,0.506,4,dnq
+1978,MIN,Calvin Griffith,---,"","",73,89,0.451,4,dnq
+1977,MIN,Calvin Griffith,---,"","",84,77,0.522,4,dnq
+1976,MIN,Calvin Griffith,---,"","",85,77,0.525,3,dnq
+1975,MIN,Calvin Griffith,---,"","",76,83,0.478,4,dnq
+1974,MIN,Calvin Griffith,---,"","",82,80,0.506,3,dnq
+1973,MIN,Calvin Griffith,---,"","",81,81,0.5,3,dnq
+1972,MIN,Calvin Griffith,---,"","",77,77,0.5,3,dnq
+1971,MIN,Calvin Griffith,---,"","",74,86,0.463,5,dnq
+1970,MIN,Calvin Griffith,---,"","",98,64,0.605,1,Lost ALCS (Orioles)
+1969,MIN,Calvin Griffith,---,"","",97,65,0.599,1,Lost ALCS (Orioles)
+1968,MIN,Calvin Griffith,---,"","",79,83,0.488,7,dnq
+1967,MIN,Calvin Griffith,---,"","",91,71,0.562,2,dnq
+1966,MIN,Calvin Griffith,---,"","",89,73,0.549,2,dnq
+1965,MIN,Calvin Griffith,---,"","",102,60,0.63,1,Lost World Series (Dodgers)
+1964,MIN,Calvin Griffith,---,"","",79,83,0.488,6,dnq
+1963,MIN,Calvin Griffith,---,"","",91,70,0.565,3,dnq
+1962,MIN,Calvin Griffith,---,"","",91,71,0.562,2,dnq
+1961,MIN,Calvin Griffith,---,"","",70,90,0.438,7,dnq
+1960,WAS,Calvin Griffith,---,"","",73,81,0.474,5,dnq
+1959,WAS,Calvin Griffith,---,"","",63,91,0.409,8,dnq
+1958,WAS,Calvin Griffith,---,"","",61,93,0.396,8,dnq
+1957,WAS,Calvin Griffith,---,"","",55,99,0.357,8,dnq
+1956,WAS,Calvin Griffith,---,"","",59,95,0.383,7,dnq
+1955,WAS,Calvin Griffith,---,"","",53,101,0.344,8,dnq
+1954,WAS,Calvin Griffith,---,"","",66,88,0.429,6,dnq
+1953,WAS,Calvin Griffith,---,"","",76,76,0.5,5,dnq
+1952,WAS,Calvin Griffith,---,"","",78,76,0.506,5,dnq
+1951,WAS,Calvin Griffith,---,"","",62,92,0.403,7,dnq
+1950,WAS,Calvin Griffith,---,"","",67,87,0.435,5,dnq
+2020,NYM,Brodie Van Wagenen,---,"","",26,34,0.433,4,dnq
+2019,NYM,Brodie Van Wagenen,---,"","",86,76,0.531,3,dnq
+2018,NYM,Sandy Alderson,---,"","",77,85,0.475,4,dnq
+2017,NYM,Sandy Alderson,---,"","",70,92,0.432,4,dnq
+2016,NYM,Sandy Alderson,---,"","",87,75,0.537,2,Lost NL Wild-Card Game (Giants)
+2015,NYM,Sandy Alderson,---,"","",90,72,0.556,1,Lost World Series (Royals)
+2014,NYM,Sandy Alderson,---,"","",79,83,0.488,3,dnq
+2013,NYM,Sandy Alderson,---,"","",74,88,0.457,3,dnq
+2012,NYM,Sandy Alderson,---,"","",74,88,0.457,4,dnq
+2011,NYM,Sandy Alderson,---,"","",77,85,0.475,4,dnq
+2010,NYM,Omar Minaya,A,"",1978-1981,79,83,0.488,4,dnq
+2009,NYM,Omar Minaya,A,"",1978-1981,70,92,0.432,4,dnq
+2008,NYM,Omar Minaya,A,"",1978-1981,89,73,0.549,2,dnq
+2007,NYM,Omar Minaya,A,"",1978-1981,88,74,0.543,2,dnq
+2006,NYM,Omar Minaya,A,"",1978-1981,97,65,0.599,1,Lost NLCS (Cardinals)
+2005,NYM,Omar Minaya,A,"",1978-1981,83,79,0.512,4,dnq
+2004,NYM,Jim Duquette,---,"","",71,91,0.438,4,dnq
+2003,NYM,Steve Phillips,AA,"",1981-1987,66,95,0.41,5,dnq
+2002,NYM,Steve Phillips,AA,"",1981-1987,75,86,0.466,5,dnq
+2001,NYM,Steve Phillips,AA,"",1981-1987,82,80,0.506,3,dnq
+2000,NYM,Steve Phillips,AA,"",1981-1987,94,68,0.58,2,Lost World Series (Yankees)
+1999,NYM,Steve Phillips,AA,"",1981-1987,97,66,0.595,2,Lost NLCS (Braves)
+1998,NYM,Steve Phillips,AA,"",1981-1987,88,74,0.543,2,dnq
+1997,NYM,Joe McIlvaine,---,"","",88,74,0.543,3,dnq
+1996,NYM,Joe McIlvaine,---,"","",71,91,0.438,4,dnq
+1995,NYM,Joe McIlvaine,---,"","",69,75,0.479,2,dnq
+1994,NYM,Joe McIlvaine,---,"","",55,58,0.487,3,dnq
+1993,NYM,Al Harazin,---,"","",59,103,0.364,7,dnq
+1992,NYM,Gerry Hunsicker,---,"","",72,90,0.444,5,dnq
+1991,NYM,Gerry Hunsicker,---,"","",77,84,0.478,5,dnq
+1990,NYM,Frank Cashen,---,"","",91,71,0.562,2,dnq
+1989,NYM,Frank Cashen,---,"","",87,75,0.537,2,dnq
+1988,NYM,Frank Cashen,---,"","",100,60,0.625,1,Lost NLCS (Dodgers)
+1987,NYM,Frank Cashen,---,"","",92,70,0.568,2,dnq
+1986,NYM,Frank Cashen,---,"","",108,54,0.667,1,Won World Series (Red Sox)
+1985,NYM,Frank Cashen,---,"","",98,64,0.605,2,dnq
+1984,NYM,Frank Cashen,---,"","",90,72,0.556,2,dnq
+1983,NYM,Frank Cashen,---,"","",68,94,0.42,6,dnq
+1982,NYM,Frank Cashen,---,"","",65,97,0.401,6,dnq
+1981,NYM,Frank Cashen,---,"","",41,62,0.398,0,dnq
+1980,NYM,Frank Cashen,---,"","",67,95,0.414,5,dnq
+1979,NYM,Joe McDonald,---,"","",63,99,0.389,6,dnq
+1978,NYM,Joe McDonald,---,"","",66,96,0.407,6,dnq
+1977,NYM,Joe McDonald,---,"","",64,98,0.395,6,dnq
+1976,NYM,Joe McDonald,---,"","",86,76,0.531,3,dnq
+1975,NYM,Joe McDonald,---,"","",82,80,0.506,3,dnq
+1974,NYM,Bob Scheffing,MLB,1941-1951,1941-1951,71,91,0.438,5,dnq
+1973,NYM,Bob Scheffing,MLB,1941-1951,1941-1951,82,79,0.509,1,Lost World Series (Athletics)
+1972,NYM,Bob Scheffing,MLB,1941-1951,1941-1951,83,73,0.532,3,dnq
+1971,NYM,Bob Scheffing,MLB,1941-1951,1941-1951,83,79,0.512,3,dnq
+1970,NYM,Bob Scheffing,MLB,1941-1951,1941-1951,83,79,0.512,3,dnq
+1969,NYM,Johnny Murphy,MLB,1932-1947,1932-1947,100,62,0.617,1,Won World Series (Orioles)
+1968,NYM,Johnny Murphy,MLB,1932-1947,1932-1947,73,89,0.451,9,dnq
+1967,NYM,Bing Devine,---,"","",61,101,0.377,10,dnq
+1966,NYM,George Weiss,---,"","",66,95,0.41,9,dnq
+1965,NYM,George Weiss,---,"","",50,112,0.309,10,dnq
+1964,NYM,George Weiss,---,"","",53,109,0.327,10,dnq
+1963,NYM,George Weiss,---,"","",51,111,0.315,10,dnq
+1962,NYM,George Weiss,---,"","",40,120,0.25,10,dnq
+2021,NYY,Brian Cashman,---,"","",0,0,---,2,---
+2020,NYY,Brian Cashman,---,"","",33,27,0.55,2,Lost in Division Series (Rays)
+2019,NYY,Brian Cashman,---,"","",103,59,0.636,1,Lost in ALCS (Astros)
+2018,NYY,Brian Cashman,---,"","",100,62,0.617,2,Lost in 1st Round (Red Sox)
+2017,NYY,Brian Cashman,---,"","",91,71,0.562,2,Lost in ALCS (Astros)
+2016,NYY,Brian Cashman,---,"","",84,78,0.519,4,dnq
+2015,NYY,Brian Cashman,---,"","",87,75,0.537,2,Lost AL Wild-Card Game (Astros)
+2014,NYY,Brian Cashman,---,"","",84,78,0.519,2,dnq
+2013,NYY,Brian Cashman,---,"","",85,77,0.525,3,dnq
+2012,NYY,Brian Cashman,---,"","",95,67,0.586,1,Lost in ALCS (Tigers)
+2011,NYY,Brian Cashman,---,"","",97,65,0.599,1,Lost in 1st Round (Tigers)
+2010,NYY,Brian Cashman,---,"","",95,67,0.586,2,Lost in ALCS (Rangers)
+2009,NYY,Brian Cashman,---,"","",103,59,0.636,1,Won World Series (Philadelphia)
+2008,NYY,Brian Cashman,---,"","",89,73,0.549,3,dnq
+2007,NYY,Brian Cashman,---,"","",94,68,0.58,2,Lost in ALDS (Cleveland)
+2006,NYY,Brian Cashman,---,"","",97,65,0.599,1,Lost ALDS (Tigers)
+2005,NYY,Brian Cashman,---,"","",95,67,0.586,1,Lost ALDS (Angels)
+2004,NYY,Brian Cashman,---,"","",101,61,0.623,1,Lost ALCS (Red Sox)
+2003,NYY,Brian Cashman,---,"","",101,61,0.623,1,Lost World Series (Marlins)
+2002,NYY,Brian Cashman,---,"","",103,58,0.64,1,Lost in 1st Round (Angels)
+2001,NYY,Brian Cashman,---,"","",95,65,0.594,1,Lost World Series (Diamondbacks)
+2000,NYY,Brian Cashman,---,"","",87,74,0.54,1,Won World Series (Mets)
+1999,NYY,Brian Cashman,---,"","",98,64,0.605,1,Won World Series (Braves)
+1998,NYY,Brian Cashman,---,"","",114,48,0.704,1,Won World Series (Padres)
+1997,NYY,Bob Watson,MLB,1966-1984,1966-1984,96,66,0.593,2,Lost in 1st Round (Indians)
+1996,NYY,Bob Watson,MLB,1966-1984,1966-1984,92,70,0.568,1,Won World Series (Braves)
+1995,NYY,Gene Michael,MLB,1966-1975,1966-1975,79,65,0.549,2,Lost in 1st Round (Mariners)
+1994,NYY,Gene Michael,MLB,1966-1975,1966-1975,70,43,0.619,1,dnq
+1993,NYY,Gene Michael,MLB,1966-1975,1966-1975,88,74,0.543,2,dnq
+1992,NYY,Gene Michael,MLB,1966-1975,1966-1975,76,86,0.469,4,dnq
+1991,NYY,Gene Michael,MLB,1966-1975,1966-1975,71,91,0.438,5,dnq
+1990,NYY,Hardy Peterson,MLB,1955-1959,1955-1959,67,95,0.414,7,dnq
+1989,NYY,Bob Quinn,---,"","",74,87,0.46,5,dnq
+1988,NYY,Lou Piniella,MLB,1964-1984,1964-1984,85,76,0.528,5,dnq
+1988,NYY,Bob Quinn,---,"","",85,76,0.528,5,dnq
+1987,NYY,Woody Woodward,MLB,1963-1971,1963-1971,89,73,0.549,4,dnq
+1986,NYY,Clyde King,MLB,1944-1953,1944-1953,90,72,0.556,2,dnq
+1985,NYY,Clyde King,MLB,1944-1953,1944-1953,97,64,0.602,2,dnq
+1984,NYY,Murray Cook,---,"","",87,75,0.537,3,dnq
+1983,NYY,Bill Bergesch,---,"","",91,71,0.562,3,dnq
+1982,NYY,Bill Bergesch,---,"","",79,83,0.488,5,dnq
+1981,NYY,Gene Michael,MLB,1966-1975,1966-1975,59,48,0.551,0,Lost World Series (Dodgers)
+1980,NYY,Gene Michael,MLB,1966-1975,1966-1975,103,59,0.636,1,Lost ALCS (Royals)
+1979,NYY,Cedric Tallis,---,"","",89,71,0.556,4,dnq
+1978,NYY,Cedric Tallis,---,"","",100,63,0.613,1,Won World Series (Dodgers)
+1977,NYY,Gabe Paul,---,"","",100,62,0.617,1,Won World Series (Dodgers)
+1976,NYY,Gabe Paul,---,"","",97,62,0.61,1,Lost World Series (Reds)
+1975,NYY,Gabe Paul,---,"","",83,77,0.519,3,dnq
+1975,NYY,Tal Smith,---,"","",83,77,0.519,3,dnq
+1974,NYY,Gabe Paul,---,"","",89,73,0.549,2,dnq
+1974,NYY,Tal Smith,---,"","",89,73,0.549,2,dnq
+1973,NYY,Lee MacPhail,---,"","",80,82,0.494,4,dnq
+1972,NYY,Lee MacPhail,---,"","",79,76,0.51,4,dnq
+1971,NYY,Lee MacPhail,---,"","",82,80,0.506,4,dnq
+1970,NYY,Lee MacPhail,---,"","",93,69,0.574,2,dnq
+1969,NYY,Lee MacPhail,---,"","",80,81,0.497,5,dnq
+1968,NYY,Lee MacPhail,---,"","",83,79,0.512,5,dnq
+1967,NYY,Lee MacPhail,---,"","",72,90,0.444,9,dnq
+1966,NYY,Ralph Houk,MLB,1947-1954,1947-1954,70,89,0.44,10,dnq
+1965,NYY,Ralph Houk,MLB,1947-1954,1947-1954,77,85,0.475,6,dnq
+1964,NYY,Ralph Houk,MLB,1947-1954,1947-1954,99,63,0.611,1,Lost World Series (Cardinals)
+1963,NYY,Roy Hamey,---,"","",104,57,0.646,1,Lost World Series (Dodgers)
+1962,NYY,Roy Hamey,---,"","",96,66,0.593,1,Won World Series (Giants)
+1961,NYY,Roy Hamey,---,"","",109,53,0.673,1,Won World Series (Reds)
+1960,NYY,George Weiss,---,"","",97,57,0.63,1,Lost World Series (Pirates)
+1959,NYY,George Weiss,---,"","",79,75,0.513,3,dnq
+1958,NYY,George Weiss,---,"","",92,62,0.597,1,Won World Series (Braves)
+1957,NYY,George Weiss,---,"","",98,56,0.636,1,Lost World Series (Braves)
+1956,NYY,George Weiss,---,"","",97,57,0.63,1,Won World Series (Dodgers)
+1955,NYY,George Weiss,---,"","",96,58,0.623,1,Lost World Series (Dodgers)
+1954,NYY,George Weiss,---,"","",103,51,0.669,2,dnq
+1953,NYY,George Weiss,---,"","",99,52,0.656,1,Won World Series (Dodgers)
+1952,NYY,George Weiss,---,"","",95,59,0.617,1,Won World Series (Dodgers)
+1951,NYY,George Weiss,---,"","",98,56,0.636,1,Won World Series (Giants)
+1950,NYY,George Weiss,---,"","",98,56,0.636,1,Won World Series (Phillies)
+2021,OAK,David Forst,Indy,"",1998-1999,0,0,---,1,---
+2020,OAK,David Forst,Indy,"",1998-1999,36,24,0.6,1,Lost in Division Series (Astros)
+2019,OAK,David Forst,Indy,"",1998-1999,97,65,0.599,2,Lost AL Wild-Card Game (Rays)
+2018,OAK,David Forst,Indy,"",1998-1999,97,65,0.599,2,Lost AL Wild-Card Game (Yankees)
+2017,OAK,David Forst,Indy,"",1998-1999,75,87,0.463,5,dnq
+2016,OAK,David Forst,Indy,"",1998-1999,69,93,0.426,5,dnq
+2015,OAK,Billy Beane,MLB,1984-1989,1980-1989,68,94,0.42,5,dnq
+2014,OAK,Billy Beane,MLB,1984-1989,1980-1989,88,74,0.543,2,Lost AL Wild-Card Game (Royals)
+2013,OAK,Billy Beane,MLB,1984-1989,1980-1989,96,66,0.593,1,Lost in 1st Round (Tigers)
+2012,OAK,Billy Beane,MLB,1984-1989,1980-1989,64,68,0.485,1,Lost in 1st Round (Tigers)
+2011,OAK,Billy Beane,MLB,1984-1989,1980-1989,74,88,0.457,3,dnq
+2010,OAK,Billy Beane,MLB,1984-1989,1980-1989,81,81,0.5,2,dnq
+2009,OAK,Billy Beane,MLB,1984-1989,1980-1989,75,87,0.463,4,dnq
+2008,OAK,Billy Beane,MLB,1984-1989,1980-1989,75,86,0.466,3,dnq
+2007,OAK,Billy Beane,MLB,1984-1989,1980-1989,76,86,0.469,3,dnq
+2006,OAK,Billy Beane,MLB,1984-1989,1980-1989,93,69,0.574,1,Lost ALCS (Tigers)
+2005,OAK,Billy Beane,MLB,1984-1989,1980-1989,88,74,0.543,2,dnq
+2004,OAK,Billy Beane,MLB,1984-1989,1980-1989,91,71,0.562,2,dnq
+2003,OAK,Billy Beane,MLB,1984-1989,1980-1989,96,66,0.593,1,Lost in 1st Round (Red Sox)
+2002,OAK,Billy Beane,MLB,1984-1989,1980-1989,103,59,0.636,1,Lost in 1st Round (Twins)
+2001,OAK,Billy Beane,MLB,1984-1989,1980-1989,102,60,0.63,2,Lost in 1st Round (Yankees)
+2000,OAK,Billy Beane,MLB,1984-1989,1980-1989,91,70,0.565,1,Lost in 1st Round (Yankees)
+1999,OAK,Billy Beane,MLB,1984-1989,1980-1989,87,75,0.537,2,dnq
+1998,OAK,Billy Beane,MLB,1984-1989,1980-1989,74,88,0.457,4,dnq
+1997,OAK,Sandy Alderson,---,"","",65,97,0.401,4,dnq
+1996,OAK,Sandy Alderson,---,"","",78,84,0.481,3,dnq
+1995,OAK,Sandy Alderson,---,"","",67,77,0.465,4,dnq
+1994,OAK,Sandy Alderson,---,"","",51,63,0.447,2,dnq
+1993,OAK,Sandy Alderson,---,"","",68,94,0.42,7,dnq
+1992,OAK,Sandy Alderson,---,"","",96,66,0.593,1,Lost ALCS (Blue Jays)
+1991,OAK,Sandy Alderson,---,"","",84,78,0.519,4,dnq
+1990,OAK,Sandy Alderson,---,"","",103,59,0.636,1,Lost World Series (Reds)
+1989,OAK,Sandy Alderson,---,"","",99,63,0.611,1,Won World Series (Giants)
+1988,OAK,Sandy Alderson,---,"","",104,58,0.642,1,Lost World Series (Dodgers)
+1987,OAK,Sandy Alderson,---,"","",81,81,0.5,3,dnq
+1986,OAK,Sandy Alderson,---,"","",76,86,0.469,4,dnq
+1985,OAK,Sandy Alderson,---,"","",77,85,0.475,5,dnq
+1984,OAK,Sandy Alderson,---,"","",77,85,0.475,4,dnq
+1983,OAK,Sandy Alderson,---,"","",74,88,0.457,4,dnq
+1982,OAK,Billy Martin,MLB,1950-1961,1950-1961,68,94,0.42,5,dnq
+1981,OAK,Billy Martin,MLB,1950-1961,1950-1961,64,45,0.587,0,Lost ALCS (Yankees)
+1980,OAK,Charlie Finley,---,"","",83,79,0.512,2,dnq
+1979,OAK,Charlie Finley,---,"","",54,108,0.333,7,dnq
+1978,OAK,Charlie Finley,---,"","",69,93,0.426,6,dnq
+1977,OAK,Charlie Finley,---,"","",63,98,0.391,7,dnq
+1976,OAK,Charlie Finley,---,"","",87,74,0.54,2,dnq
+1975,OAK,Charlie Finley,---,"","",98,64,0.605,1,Lost ALCS (Red Sox)
+1974,OAK,Charlie Finley,---,"","",90,72,0.556,1,Won World Series (Dodgers)
+1973,OAK,Charlie Finley,---,"","",94,68,0.58,1,Won World Series (Mets)
+1972,OAK,Charlie Finley,---,"","",93,62,0.6,1,Won World Series (Reds)
+1971,OAK,Charlie Finley,---,"","",101,60,0.627,1,Lost ALCS (Orioles)
+1970,OAK,Charlie Finley,---,"","",89,73,0.549,2,dnq
+1969,OAK,Charlie Finley,---,"","",88,74,0.543,2,dnq
+1968,OAK,Charlie Finley,---,"","",82,80,0.506,6,dnq
+1967,KCA,Ed Lopat,MLB,1944-1955,1944-1955,62,99,0.385,10,dnq
+1966,KCA,Ed Lopat,MLB,1944-1955,1944-1955,74,86,0.463,7,dnq
+1965,KCA,Hank Peters,---,"","",59,103,0.364,10,dnq
+1965,KCA,Pat Friday,---,"","",59,103,0.364,10,dnq
+1964,KCA,Pat Friday,---,"","",57,105,0.352,10,dnq
+1963,KCA,Pat Friday,---,"","",73,89,0.451,8,dnq
+1962,KCA,Pat Friday,---,"","",72,90,0.444,9,dnq
+1961,KCA,Frank Lane,---,"","",61,100,0.379,10,dnq
+1960,KCA,Parke Carroll,---,"","",58,96,0.377,8,dnq
+1959,KCA,Parke Carroll,---,"","",66,88,0.429,7,dnq
+1958,KCA,George Selkirk,MLB,1934-1942,1934-1942,73,81,0.474,7,dnq
+1957,KCA,George Selkirk,MLB,1934-1942,1934-1942,59,94,0.386,7,dnq
+1953,PHA,Art Ehlers,---,"","",59,95,0.383,7,dnq
+1952,PHA,Art Ehlers,---,"","",79,75,0.513,4,dnq
+1951,PHA,Art Ehlers,---,"","",70,84,0.455,6,dnq
+1950,PHA,Art Ehlers,---,"","",52,102,0.338,8,dnq
+2021,PHI,Sam Fuld,MLB,2007-2015,2001-2015,0,0,---,3,---
+2020,PHI,Matt Klentak,NCAA,"",1999-2002,28,32,0.467,3,dnq
+2019,PHI,Matt Klentak,NCAA,"",1999-2002,81,81,0.5,4,dnq
+2018,PHI,Matt Klentak,NCAA,"",1999-2002,80,82,0.494,3,dnq
+2017,PHI,Matt Klentak,NCAA,"",1999-2002,66,96,0.407,5,dnq
+2016,PHI,Matt Klentak,NCAA,"",1999-2002,71,91,0.438,4,dnq
+2015,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,63,99,0.389,5,dnq
+2014,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,73,89,0.451,5,dnq
+2013,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,73,89,0.451,4,dnq
+2012,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,81,81,0.5,3,dnq
+2011,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,102,60,0.63,1,Lost in 1st Round (Cardinals)
+2010,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,97,65,0.599,1,Lost in NLCS (Giants)
+2009,PHI,Ruben Amaro,MLB,1991-1998,1984-1998,93,69,0.574,1,Lost World Series (NY Yankees)
+2008,PHI,Pat Gillick,---,"","",92,70,0.568,1,Won World Series (Tampa Bay)
+2007,PHI,Pat Gillick,---,"","",89,73,0.549,1,Lost in NLDS (Colorado)
+2006,PHI,Pat Gillick,---,"","",85,77,0.525,2,dnq
+2005,PHI,Ed Wade,---,"","",88,74,0.543,2,dnq
+2004,PHI,Ed Wade,---,"","",86,76,0.531,2,dnq
+2003,PHI,Ed Wade,---,"","",86,76,0.531,3,dnq
+2002,PHI,Ed Wade,---,"","",80,81,0.497,3,dnq
+2001,PHI,Ed Wade,---,"","",86,76,0.531,2,dnq
+2000,PHI,Ed Wade,---,"","",65,97,0.401,5,dnq
+1999,PHI,Ed Wade,---,"","",77,85,0.475,3,dnq
+1998,PHI,Ed Wade,---,"","",75,87,0.463,3,dnq
+1997,PHI,Lee Thomas,MLB,1961-1968,1961-1968,68,94,0.42,5,dnq
+1996,PHI,Lee Thomas,MLB,1961-1968,1961-1968,67,95,0.414,5,dnq
+1995,PHI,Lee Thomas,MLB,1961-1968,1961-1968,69,75,0.479,3,dnq
+1994,PHI,Lee Thomas,MLB,1961-1968,1961-1968,54,61,0.47,4,dnq
+1993,PHI,Lee Thomas,MLB,1961-1968,1961-1968,97,65,0.599,1,Lost World Series (Blue Jays)
+1992,PHI,Lee Thomas,MLB,1961-1968,1961-1968,70,92,0.432,6,dnq
+1991,PHI,Lee Thomas,MLB,1961-1968,1961-1968,78,84,0.481,3,dnq
+1990,PHI,Lee Thomas,MLB,1961-1968,1961-1968,77,85,0.475,4,dnq
+1989,PHI,Lee Thomas,MLB,1961-1968,1961-1968,67,95,0.414,6,dnq
+1988,PHI,Woody Woodward,MLB,1963-1971,1963-1971,65,96,0.404,6,dnq
+1987,PHI,Bill Giles,---,"","",80,82,0.494,5,dnq
+1986,PHI,Bill Giles,---,"","",86,75,0.534,2,dnq
+1985,PHI,Bill Giles,---,"","",75,87,0.463,5,dnq
+1984,PHI,Bill Giles,---,"","",81,81,0.5,4,dnq
+1983,PHI,Paul Owens,---,"","",90,72,0.556,1,Lost World Series (Orioles)
+1982,PHI,Paul Owens,---,"","",89,73,0.549,2,dnq
+1981,PHI,Paul Owens,---,"","",59,48,0.551,0,Lost in 1st Round (Expos)
+1980,PHI,Paul Owens,---,"","",91,71,0.562,1,Won World Series (Royals)
+1979,PHI,Paul Owens,---,"","",84,78,0.519,4,dnq
+1978,PHI,Paul Owens,---,"","",90,72,0.556,1,Lost NLCS (Dodgers)
+1977,PHI,Paul Owens,---,"","",101,61,0.623,1,Lost NLCS (Dodgers)
+1976,PHI,Paul Owens,---,"","",101,61,0.623,1,Lost NLCS (Reds)
+1975,PHI,Paul Owens,---,"","",86,76,0.531,2,dnq
+1974,PHI,Paul Owens,---,"","",80,82,0.494,3,dnq
+1973,PHI,Paul Owens,---,"","",71,91,0.438,6,dnq
+1972,PHI,John Quinn,---,"","",59,97,0.378,6,dnq
+1971,PHI,John Quinn,---,"","",67,95,0.414,6,dnq
+1970,PHI,John Quinn,---,"","",73,88,0.453,5,dnq
+1969,PHI,John Quinn,---,"","",63,99,0.389,5,dnq
+1968,PHI,John Quinn,---,"","",76,86,0.469,7,dnq
+1967,PHI,John Quinn,---,"","",82,80,0.506,5,dnq
+1966,PHI,John Quinn,---,"","",87,75,0.537,4,dnq
+1965,PHI,John Quinn,---,"","",85,76,0.528,6,dnq
+1964,PHI,John Quinn,---,"","",92,70,0.568,2,dnq
+1963,PHI,John Quinn,---,"","",87,75,0.537,4,dnq
+1962,PHI,John Quinn,---,"","",81,80,0.503,7,dnq
+1961,PHI,John Quinn,---,"","",47,107,0.305,8,dnq
+1960,PHI,John Quinn,---,"","",59,95,0.383,8,dnq
+1959,PHI,John Quinn,---,"","",64,90,0.416,8,dnq
+1958,PHI,Roy Hamey,---,"","",69,85,0.448,8,dnq
+1957,PHI,Roy Hamey,---,"","",77,77,0.5,5,dnq
+1956,PHI,Roy Hamey,---,"","",71,83,0.461,5,dnq
+1955,PHI,Roy Hamey,---,"","",77,77,0.5,4,dnq
+1954,PHI,Roy Hamey,---,"","",75,79,0.487,4,dnq
+1953,PHI,Bob Carpenter,---,"","",83,71,0.539,4,dnq
+1952,PHI,Bob Carpenter,---,"","",87,67,0.565,4,dnq
+1951,PHI,Bob Carpenter,---,"","",73,81,0.474,5,dnq
+1950,PHI,Bob Carpenter,---,"","",91,63,0.591,1,Lost World Series (Yankees)
+2021,PIT,Ben Cherington,---,"","",0,0,---,5,---
+2020,PIT,Ben Cherington,---,"","",19,41,0.317,5,dnq
+2019,PIT,Neal Huntington,---,"","",69,93,0.426,5,dnq
+2018,PIT,Neal Huntington,---,"","",82,79,0.509,4,dnq
+2017,PIT,Neal Huntington,---,"","",75,87,0.463,4,dnq
+2016,PIT,Neal Huntington,---,"","",78,83,0.484,3,dnq
+2015,PIT,Neal Huntington,---,"","",98,64,0.605,2,Lost NL Wild-Card Game (Cubs)
+2014,PIT,Neal Huntington,---,"","",88,74,0.543,2,Lost NL Wild-Card Game (Giants)
+2013,PIT,Neal Huntington,---,"","",94,68,0.58,2,Lost in 1st Round (Cardinals)
+2012,PIT,Neal Huntington,---,"","",79,83,0.488,4,dnq
+2011,PIT,Neal Huntington,---,"","",72,90,0.444,4,dnq
+2010,PIT,Neal Huntington,---,"","",57,105,0.352,6,dnq
+2009,PIT,Neal Huntington,---,"","",62,99,0.385,6,dnq
+2008,PIT,Neal Huntington,---,"","",67,95,0.414,6,dnq
+2007,PIT,Neal Huntington,---,"","",68,94,0.42,6,dnq
+2006,PIT,Dave Littlefield,A+,"",1978-1980,67,95,0.414,5,dnq
+2005,PIT,Dave Littlefield,A+,"",1978-1980,67,95,0.414,6,dnq
+2004,PIT,Dave Littlefield,A+,"",1978-1980,72,89,0.447,5,dnq
+2003,PIT,Dave Littlefield,A+,"",1978-1980,75,87,0.463,4,dnq
+2002,PIT,Dave Littlefield,A+,"",1978-1980,72,89,0.447,4,dnq
+2001,PIT,Cam Bonifay,---,"","",62,100,0.383,6,dnq
+2001,PIT,Dave Littlefield,A+,"",1978-1980,62,100,0.383,6,dnq
+2000,PIT,Cam Bonifay,---,"","",69,93,0.426,5,dnq
+1999,PIT,Cam Bonifay,---,"","",78,83,0.484,3,dnq
+1998,PIT,Cam Bonifay,---,"","",69,93,0.426,6,dnq
+1997,PIT,Cam Bonifay,---,"","",79,83,0.488,2,dnq
+1996,PIT,Cam Bonifay,---,"","",73,89,0.451,5,dnq
+1995,PIT,Cam Bonifay,---,"","",58,86,0.403,5,dnq
+1994,PIT,Cam Bonifay,---,"","",53,61,0.465,3,dnq
+1993,PIT,Ted Simmons,MLB,1968-1988,1968-1988,75,87,0.463,5,dnq
+1992,PIT,Ted Simmons,MLB,1968-1988,1968-1988,96,66,0.593,1,Lost NLCS (Braves)
+1991,PIT,Larry Doughty,---,"","",98,64,0.605,1,Lost NLCS (Braves)
+1990,PIT,Larry Doughty,---,"","",95,67,0.586,1,Lost NLCS (Reds)
+1989,PIT,Larry Doughty,---,"","",74,88,0.457,5,dnq
+1988,PIT,Syd Thrift,---,"","",85,75,0.531,2,dnq
+1987,PIT,Syd Thrift,---,"","",80,82,0.494,4,dnq
+1986,PIT,Syd Thrift,---,"","",64,98,0.395,6,dnq
+1985,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,57,104,0.354,6,dnq
+1984,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,75,87,0.463,6,dnq
+1983,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,84,78,0.519,2,dnq
+1982,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,84,78,0.519,4,dnq
+1981,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,46,56,0.451,0,dnq
+1980,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,83,79,0.512,3,dnq
+1979,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,98,64,0.605,1,Won World Series (Orioles)
+1978,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,88,73,0.547,2,dnq
+1978,PIT,Joseph O'Toole,---,"","",88,73,0.547,2,dnq
+1977,PIT,Hardy Peterson,MLB,1955-1959,1955-1959,96,66,0.593,2,dnq
+1977,PIT,Joseph O'Toole,---,"","",96,66,0.593,2,dnq
+1976,PIT,Joe Brown,---,"","",92,70,0.568,2,dnq
+1975,PIT,Joe Brown,---,"","",92,69,0.571,1,Lost NLCS (Reds)
+1974,PIT,Joe Brown,---,"","",88,74,0.543,1,Lost NLCS (Dodgers)
+1973,PIT,Joe Brown,---,"","",80,82,0.494,3,dnq
+1972,PIT,Joe Brown,---,"","",96,59,0.619,1,Lost NLCS (Reds)
+1971,PIT,Joe Brown,---,"","",97,65,0.599,1,Won World Series (Orioles)
+1970,PIT,Joe Brown,---,"","",89,73,0.549,1,Lost NLCS (Reds)
+1969,PIT,Joe Brown,---,"","",88,74,0.543,3,dnq
+1968,PIT,Joe Brown,---,"","",80,82,0.494,6,dnq
+1967,PIT,Joe Brown,---,"","",81,81,0.5,6,dnq
+1966,PIT,Joe Brown,---,"","",92,70,0.568,3,dnq
+1965,PIT,Joe Brown,---,"","",90,72,0.556,3,dnq
+1964,PIT,Joe Brown,---,"","",80,82,0.494,6,dnq
+1963,PIT,Joe Brown,---,"","",74,88,0.457,8,dnq
+1962,PIT,Joe Brown,---,"","",93,68,0.578,4,dnq
+1961,PIT,Joe Brown,---,"","",75,79,0.487,6,dnq
+1960,PIT,Joe Brown,---,"","",95,59,0.617,1,Won World Series (Yankees)
+1959,PIT,Joe Brown,---,"","",78,76,0.506,4,dnq
+1958,PIT,Joe Brown,---,"","",84,70,0.545,2,dnq
+1957,PIT,Joe Brown,---,"","",62,92,0.403,7,dnq
+1956,PIT,Joe Brown,---,"","",66,88,0.429,7,dnq
+1955,PIT,Branch Rickey,MLB,1905-1914,1905-1914,60,94,0.39,8,dnq
+1954,PIT,Branch Rickey,MLB,1905-1914,1905-1914,53,101,0.344,8,dnq
+1953,PIT,Branch Rickey,MLB,1905-1914,1905-1914,50,104,0.325,8,dnq
+1952,PIT,Branch Rickey,MLB,1905-1914,1905-1914,42,112,0.273,8,dnq
+1951,PIT,Branch Rickey,MLB,1905-1914,1905-1914,64,90,0.416,7,dnq
+1950,PIT,Roy Hamey,---,"","",57,96,0.373,8,dnq
+1949,PIT,Roy Hamey,---,"","",71,83,0.461,6,dnq
+1948,PIT,Roy Hamey,---,"","",83,71,0.539,4,dnq
+1947,PIT,Roy Hamey,---,"","",62,92,0.403,7,dnq
+1946,PIT,Roy Hamey,---,"","",63,91,0.409,7,dnq
+2021,SDP,AJ Preller,---,"","",0,0,---,2,---
+2020,SDP,AJ Preller,---,"","",37,23,0.617,2,Lost in Division Series (Dodgers)
+2019,SDP,AJ Preller,---,"","",70,92,0.432,5,dnq
+2018,SDP,AJ Preller,---,"","",66,96,0.407,5,dnq
+2017,SDP,AJ Preller,---,"","",71,91,0.438,4,dnq
+2016,SDP,AJ Preller,---,"","",68,94,0.42,5,dnq
+2015,SDP,AJ Preller,---,"","",74,88,0.457,4,dnq
+2014,SDP,Josh Byrnes,---,"","",77,85,0.475,3,dnq
+2014,SDP,AJ Preller,---,"","",77,85,0.475,3,dnq
+2013,SDP,Josh Byrnes,---,"","",76,86,0.469,4,dnq
+2012,SDP,Josh Byrnes,---,"","",76,86,0.469,4,dnq
+2011,SDP,Jed Hoyer,---,"","",71,91,0.438,5,dnq
+2010,SDP,Jed Hoyer,---,"","",90,72,0.556,2,dnq
+2009,SDP,Kevin Towers,AAA,"",1982-1989,75,87,0.463,4,dnq
+2008,SDP,Kevin Towers,AAA,"",1982-1989,63,99,0.389,5,dnq
+2007,SDP,Kevin Towers,AAA,"",1982-1989,89,74,0.546,3,dnq
+2006,SDP,Kevin Towers,AAA,"",1982-1989,88,74,0.543,1,Lost NLDS (Cardinals)
+2005,SDP,Kevin Towers,AAA,"",1982-1989,82,80,0.506,1,Lost NLDS (Cardinals)
+2004,SDP,Kevin Towers,AAA,"",1982-1989,87,75,0.537,3,dnq
+2003,SDP,Kevin Towers,AAA,"",1982-1989,64,98,0.395,5,dnq
+2002,SDP,Kevin Towers,AAA,"",1982-1989,66,96,0.407,5,dnq
+2001,SDP,Kevin Towers,AAA,"",1982-1989,79,83,0.488,4,dnq
+2000,SDP,Kevin Towers,AAA,"",1982-1989,76,86,0.469,5,dnq
+1999,SDP,Kevin Towers,AAA,"",1982-1989,74,88,0.457,4,dnq
+1998,SDP,Kevin Towers,AAA,"",1982-1989,98,64,0.605,1,Lost World Series (Yankees)
+1997,SDP,Kevin Towers,AAA,"",1982-1989,76,86,0.469,4,dnq
+1996,SDP,Kevin Towers,AAA,"",1982-1989,91,71,0.562,1,Lost in 1st Round (Cardinals)
+1995,SDP,Randy Smith,---,"","",70,74,0.486,3,dnq
+1994,SDP,Randy Smith,---,"","",47,70,0.402,4,dnq
+1993,SDP,Joe McIlvaine,---,"","",61,101,0.377,7,dnq
+1992,SDP,Joe McIlvaine,---,"","",82,80,0.506,3,dnq
+1991,SDP,Joe McIlvaine,---,"","",84,78,0.519,3,dnq
+1990,SDP,Jack McKeon,---,"","",75,87,0.463,4,dnq
+1989,SDP,Jack McKeon,---,"","",89,73,0.549,2,dnq
+1988,SDP,Jack McKeon,---,"","",83,78,0.516,3,dnq
+1987,SDP,Jack McKeon,---,"","",65,97,0.401,6,dnq
+1986,SDP,Jack McKeon,---,"","",74,88,0.457,4,dnq
+1985,SDP,Jack McKeon,---,"","",83,79,0.512,3,dnq
+1984,SDP,Jack McKeon,---,"","",92,70,0.568,1,Lost World Series (Tigers)
+1983,SDP,Jack McKeon,---,"","",81,81,0.5,4,dnq
+1982,SDP,Jack McKeon,---,"","",81,81,0.5,4,dnq
+1981,SDP,Jack McKeon,---,"","",41,69,0.373,0,dnq
+1980,SDP,Bob Fontaine,---,"","",73,89,0.451,6,dnq
+1979,SDP,Bob Fontaine,---,"","",68,93,0.422,5,dnq
+1978,SDP,Bob Fontaine,---,"","",84,78,0.519,4,dnq
+1977,SDP,Bob Fontaine,---,"","",69,93,0.426,5,dnq
+1976,SDP,Buzzie Bavasi,---,"","",73,89,0.451,5,dnq
+1975,SDP,Buzzie Bavasi,---,"","",71,91,0.438,4,dnq
+1974,SDP,Buzzie Bavasi,---,"","",60,102,0.37,6,dnq
+1973,SDP,Buzzie Bavasi,---,"","",60,102,0.37,6,dnq
+1972,SDP,Buzzie Bavasi,---,"","",58,95,0.379,6,dnq
+1971,SDP,Buzzie Bavasi,---,"","",61,100,0.379,6,dnq
+1970,SDP,Buzzie Bavasi,---,"","",63,99,0.389,6,dnq
+1969,SDP,Buzzie Bavasi,---,"","",52,110,0.321,6,dnq
+2021,SFG,Scott Harris,---,"","",0,0,---,3,---
+2020,SFG,Scott Harris,---,"","",29,31,0.483,3,dnq
+2019,SFG,Bobby Evans,---,"","",77,85,0.475,3,dnq
+2018,SFG,Bobby Evans,---,"","",73,89,0.451,4,dnq
+2017,SFG,Bobby Evans,---,"","",64,98,0.395,5,dnq
+2016,SFG,Brian Sabean,---,"","",87,75,0.537,2,Lost in 1st Round (Cubs)
+2015,SFG,Brian Sabean,---,"","",84,78,0.519,2,dnq
+2014,SFG,Brian Sabean,---,"","",88,74,0.543,2,Won World Series (Royals)
+2013,SFG,Brian Sabean,---,"","",76,86,0.469,3,dnq
+2012,SFG,Brian Sabean,---,"","",94,68,0.58,1,Won World Series (Tigers)
+2011,SFG,Brian Sabean,---,"","",86,76,0.531,2,dnq
+2010,SFG,Brian Sabean,---,"","",92,70,0.568,1,Won World Series (Rangers)
+2009,SFG,Brian Sabean,---,"","",88,74,0.543,3,dnq
+2008,SFG,Brian Sabean,---,"","",72,90,0.444,4,dnq
+2007,SFG,Brian Sabean,---,"","",71,91,0.438,5,dnq
+2006,SFG,Brian Sabean,---,"","",76,85,0.472,3,dnq
+2005,SFG,Brian Sabean,---,"","",75,87,0.463,3,dnq
+2004,SFG,Brian Sabean,---,"","",91,71,0.562,2,dnq
+2003,SFG,Brian Sabean,---,"","",100,61,0.621,1,Lost in 1st Round (Marlins)
+2002,SFG,Brian Sabean,---,"","",95,66,0.59,2,Lost World Series (Angels)
+2001,SFG,Brian Sabean,---,"","",90,72,0.556,2,dnq
+2000,SFG,Brian Sabean,---,"","",97,65,0.599,1,Lost in 1st Round (Mets)
+1999,SFG,Brian Sabean,---,"","",86,76,0.531,2,dnq
+1998,SFG,Brian Sabean,---,"","",89,74,0.546,2,dnq
+1997,SFG,Brian Sabean,---,"","",90,72,0.556,1,Lost in 1st Round (Marlins)
+1996,SFG,Bob Quinn,---,"","",68,94,0.42,4,dnq
+1995,SFG,Bob Quinn,---,"","",67,77,0.465,4,dnq
+1994,SFG,Bob Quinn,---,"","",55,60,0.478,2,dnq
+1993,SFG,Bob Quinn,---,"","",103,59,0.636,2,dnq
+1992,SFG,Al Rosen,MLB,1947-1956,1947-1956,72,90,0.444,5,dnq
+1991,SFG,Al Rosen,MLB,1947-1956,1947-1956,75,87,0.463,4,dnq
+1990,SFG,Al Rosen,MLB,1947-1956,1947-1956,85,77,0.525,3,dnq
+1989,SFG,Al Rosen,MLB,1947-1956,1947-1956,92,70,0.568,1,Lost World Series (Athletics)
+1988,SFG,Al Rosen,MLB,1947-1956,1947-1956,83,79,0.512,4,dnq
+1987,SFG,Al Rosen,MLB,1947-1956,1947-1956,90,72,0.556,1,Lost NLCS (Cardinals)
+1986,SFG,Al Rosen,MLB,1947-1956,1947-1956,83,79,0.512,3,dnq
+1985,SFG,Tom Haller,MLB,1961-1972,1961-1972,62,100,0.383,6,dnq
+1984,SFG,Tom Haller,MLB,1961-1972,1961-1972,66,96,0.407,6,dnq
+1983,SFG,Tom Haller,MLB,1961-1972,1961-1972,79,83,0.488,5,dnq
+1982,SFG,Tom Haller,MLB,1961-1972,1961-1972,87,75,0.537,3,dnq
+1981,SFG,Spec Richardson,---,"","",56,55,0.505,0,dnq
+1980,SFG,Spec Richardson,---,"","",75,86,0.466,5,dnq
+1979,SFG,Spec Richardson,---,"","",71,91,0.438,4,dnq
+1978,SFG,Spec Richardson,---,"","",89,73,0.549,3,dnq
+1977,SFG,Spec Richardson,---,"","",75,87,0.463,4,dnq
+1976,SFG,Spec Richardson,---,"","",74,88,0.457,4,dnq
+1975,SFG,Horace Stoneham,---,"","",80,81,0.497,3,dnq
+1974,SFG,Horace Stoneham,---,"","",72,90,0.444,5,dnq
+1973,SFG,Horace Stoneham,---,"","",88,74,0.543,3,dnq
+1972,SFG,Horace Stoneham,---,"","",69,86,0.445,5,dnq
+1971,SFG,Horace Stoneham,---,"","",90,72,0.556,1,Lost NLCS (Pirates)
+1970,SFG,Horace Stoneham,---,"","",86,76,0.531,3,dnq
+1969,SFG,Horace Stoneham,---,"","",90,72,0.556,2,dnq
+1969,SFG,Chub Feeney,---,"","",90,72,0.556,2,dnq
+1968,SFG,Chub Feeney,---,"","",88,74,0.543,2,dnq
+1967,SFG,Chub Feeney,---,"","",91,71,0.562,2,dnq
+1966,SFG,Chub Feeney,---,"","",93,68,0.578,2,dnq
+1965,SFG,Chub Feeney,---,"","",95,67,0.586,2,dnq
+1964,SFG,Chub Feeney,---,"","",90,72,0.556,4,dnq
+1963,SFG,Chub Feeney,---,"","",88,74,0.543,3,dnq
+1962,SFG,Chub Feeney,---,"","",103,62,0.624,1,Lost World Series (Yankees)
+1961,SFG,Chub Feeney,---,"","",85,69,0.552,3,dnq
+1960,SFG,Chub Feeney,---,"","",79,75,0.513,5,dnq
+1959,SFG,Chub Feeney,---,"","",83,71,0.539,3,dnq
+1958,SFG,Chub Feeney,---,"","",80,74,0.519,3,dnq
+1957,NYG,Chub Feeney,---,"","",69,85,0.448,6,dnq
+1956,NYG,Chub Feeney,---,"","",67,87,0.435,6,dnq
+1955,NYG,Chub Feeney,---,"","",80,74,0.519,3,dnq
+1954,NYG,Chub Feeney,---,"","",97,57,0.63,1,Won World Series (Indians)
+1953,NYG,Chub Feeney,---,"","",70,84,0.455,5,dnq
+1952,NYG,Chub Feeney,---,"","",92,62,0.597,2,dnq
+1951,NYG,Chub Feeney,---,"","",98,59,0.624,1,Lost World Series (Yankees)
+1950,NYG,Chub Feeney,---,"","",86,68,0.558,3,dnq
+2021,SEA,Jerry Dipoto,MLB,1993-2000,1988-2000,0,0,---,3,---
+2020,SEA,Jerry Dipoto,MLB,1993-2000,1988-2000,27,33,0.45,3,dnq
+2019,SEA,Jerry Dipoto,MLB,1993-2000,1988-2000,69,84,0.451,5,dnq
+2018,SEA,Jerry Dipoto,MLB,1993-2000,1988-2000,89,73,0.549,3,dnq
+2017,SEA,Jerry Dipoto,MLB,1993-2000,1988-2000,78,84,0.481,3,dnq
+2016,SEA,Jerry Dipoto,MLB,1993-2000,1988-2000,86,76,0.531,2,dnq
+2015,SEA,Jack Zduriencik,---,"","",76,86,0.469,4,dnq
+2014,SEA,Jack Zduriencik,---,"","",87,75,0.537,3,dnq
+2013,SEA,Jack Zduriencik,---,"","",71,91,0.438,4,dnq
+2012,SEA,Jack Zduriencik,---,"","",75,87,0.463,4,dnq
+2011,SEA,Jack Zduriencik,---,"","",67,95,0.414,4,dnq
+2010,SEA,Jack Zduriencik,---,"","",61,101,0.377,4,dnq
+2009,SEA,Jack Zduriencik,---,"","",85,77,0.525,3,dnq
+2008,SEA,Lee Pelekoudas,---,"","",61,101,0.377,4,dnq
+2007,SEA,Bill Bavasi,---,"","",88,74,0.543,2,dnq
+2006,SEA,Bill Bavasi,---,"","",78,84,0.481,4,dnq
+2005,SEA,Bill Bavasi,---,"","",69,93,0.426,4,dnq
+2004,SEA,Bill Bavasi,---,"","",63,99,0.389,4,dnq
+2003,SEA,Pat Gillick,---,"","",93,69,0.574,2,dnq
+2002,SEA,Pat Gillick,---,"","",93,69,0.574,3,dnq
+2001,SEA,Pat Gillick,---,"","",116,46,0.716,1,Lost ALCS (Yankees)
+2000,SEA,Pat Gillick,---,"","",91,71,0.562,2,Lost ALCS (Yankees)
+1999,SEA,Woody Woodward,MLB,1963-1971,1963-1971,79,83,0.488,3,dnq
+1998,SEA,Woody Woodward,MLB,1963-1971,1963-1971,76,85,0.472,3,dnq
+1997,SEA,Woody Woodward,MLB,1963-1971,1963-1971,90,72,0.556,1,Lost in 1st Round (Orioles)
+1996,SEA,Woody Woodward,MLB,1963-1971,1963-1971,85,76,0.528,2,dnq
+1995,SEA,Woody Woodward,MLB,1963-1971,1963-1971,79,66,0.545,1,Lost ALCS (Indians)
+1994,SEA,Woody Woodward,MLB,1963-1971,1963-1971,49,63,0.438,3,dnq
+1993,SEA,Woody Woodward,MLB,1963-1971,1963-1971,82,80,0.506,4,dnq
+1992,SEA,Woody Woodward,MLB,1963-1971,1963-1971,64,98,0.395,7,dnq
+1991,SEA,Woody Woodward,MLB,1963-1971,1963-1971,83,79,0.512,5,dnq
+1990,SEA,Woody Woodward,MLB,1963-1971,1963-1971,77,85,0.475,5,dnq
+1989,SEA,Woody Woodward,MLB,1963-1971,1963-1971,73,89,0.451,6,dnq
+1988,SEA,Dick Balderson,---,"","",68,93,0.422,7,dnq
+1987,SEA,Dick Balderson,---,"","",78,84,0.481,4,dnq
+1986,SEA,Dick Balderson,---,"","",67,95,0.414,7,dnq
+1985,SEA,Hal Keller,MLB,1949-1952,1949-1952,74,88,0.457,6,dnq
+1984,SEA,Hal Keller,MLB,1949-1952,1949-1952,74,88,0.457,5,dnq
+1983,SEA,Dan O'Brien,---,"","",60,102,0.37,7,dnq
+1982,SEA,Dan O'Brien,---,"","",76,86,0.469,4,dnq
+1981,SEA,Dan O'Brien,---,"","",44,65,0.404,0,dnq
+1980,SEA,Lou Gorman,---,"","",59,103,0.364,7,dnq
+1979,SEA,Lou Gorman,---,"","",67,95,0.414,6,dnq
+1978,SEA,Lou Gorman,---,"","",56,104,0.35,7,dnq
+1977,SEA,Lou Gorman,---,"","",64,98,0.395,6,dnq
+2021,STL,Mike Girsch,---,"","",0,0,---,3,---
+2020,STL,Mike Girsch,---,"","",30,26,0.536,3,Lost in Wild Card Series (Padres)
+2019,STL,Mike Girsch,---,"","",91,71,0.562,1,Lost in NLCS (Nationals)
+2018,STL,Mike Girsch,---,"","",88,74,0.543,3,dnq
+2017,STL,John Mozeliak,---,"","",83,79,0.512,3,dnq
+2017,STL,Mike Girsch,---,"","",83,79,0.512,3,dnq
+2016,STL,John Mozeliak,---,"","",86,76,0.531,2,dnq
+2015,STL,John Mozeliak,---,"","",100,62,0.617,1,Lost in 1st Round (Cubs)
+2014,STL,John Mozeliak,---,"","",90,72,0.556,1,Lost in NLCS (Giants)
+2013,STL,John Mozeliak,---,"","",97,65,0.599,1,Lost World Series (Red Sox)
+2012,STL,John Mozeliak,---,"","",88,74,0.543,2,Lost in NLCS (Giants)
+2011,STL,John Mozeliak,---,"","",90,72,0.556,2,Won World Series (Rangers)
+2010,STL,John Mozeliak,---,"","",86,76,0.531,2,dnq
+2009,STL,John Mozeliak,---,"","",91,71,0.562,1,Lost in NLDS (LA Dodgers)
+2008,STL,John Mozeliak,---,"","",86,76,0.531,4,dnq
+2007,STL,Walt Jocketty,---,"","",78,84,0.481,3,dnq
+2006,STL,Walt Jocketty,---,"","",83,78,0.516,1,Won World Series (Tigers)
+2005,STL,Walt Jocketty,---,"","",100,62,0.617,1,Lost NLCS (Astros)
+2004,STL,Walt Jocketty,---,"","",105,57,0.648,1,Lost World Series (Red Sox)
+2003,STL,Walt Jocketty,---,"","",85,77,0.525,3,dnq
+2002,STL,Walt Jocketty,---,"","",97,65,0.599,1,Lost NLCS (Giants)
+2001,STL,Walt Jocketty,---,"","",93,69,0.574,1,Lost in 1st Round (Diamondbacks)
+2000,STL,Walt Jocketty,---,"","",95,67,0.586,1,Lost NLCS (Mets)
+1999,STL,Walt Jocketty,---,"","",75,86,0.466,4,dnq
+1998,STL,Walt Jocketty,---,"","",83,79,0.512,3,dnq
+1997,STL,Walt Jocketty,---,"","",73,89,0.451,4,dnq
+1996,STL,Walt Jocketty,---,"","",88,74,0.543,1,Lost NLCS (Braves)
+1995,STL,Walt Jocketty,---,"","",62,81,0.434,4,dnq
+1994,STL,Dal Maxvill,MLB,1962-1975,1962-1975,53,61,0.465,3,dnq
+1993,STL,Dal Maxvill,MLB,1962-1975,1962-1975,87,75,0.537,3,dnq
+1992,STL,Dal Maxvill,MLB,1962-1975,1962-1975,83,79,0.512,3,dnq
+1991,STL,Dal Maxvill,MLB,1962-1975,1962-1975,84,78,0.519,2,dnq
+1990,STL,Dal Maxvill,MLB,1962-1975,1962-1975,70,92,0.432,6,dnq
+1989,STL,Dal Maxvill,MLB,1962-1975,1962-1975,86,76,0.531,3,dnq
+1988,STL,Dal Maxvill,MLB,1962-1975,1962-1975,76,86,0.469,5,dnq
+1987,STL,Dal Maxvill,MLB,1962-1975,1962-1975,95,67,0.586,1,Lost World Series (Twins)
+1986,STL,Dal Maxvill,MLB,1962-1975,1962-1975,79,82,0.491,3,dnq
+1985,STL,Dal Maxvill,MLB,1962-1975,1962-1975,101,61,0.623,1,Lost World Series (Cardinals)
+1984,STL,Joe McDonald,---,"","",84,78,0.519,3,dnq
+1983,STL,Joe McDonald,---,"","",79,83,0.488,4,dnq
+1982,STL,Whitey Herzog,MLB,1956-1963,1956-1963,92,70,0.568,1,Won World Series (Brewers)
+1981,STL,Whitey Herzog,MLB,1956-1963,1956-1963,59,43,0.578,0,dnq
+1980,STL,John Claiborne,---,"","",74,88,0.457,4,dnq
+1979,STL,John Claiborne,---,"","",86,76,0.531,3,dnq
+1978,STL,Bing Devine,---,"","",69,93,0.426,5,dnq
+1977,STL,Bing Devine,---,"","",83,79,0.512,3,dnq
+1976,STL,Bing Devine,---,"","",72,90,0.444,5,dnq
+1975,STL,Bing Devine,---,"","",82,80,0.506,4,dnq
+1974,STL,Bing Devine,---,"","",86,75,0.534,2,dnq
+1973,STL,Bing Devine,---,"","",81,81,0.5,2,dnq
+1972,STL,Bing Devine,---,"","",75,81,0.481,4,dnq
+1971,STL,Bing Devine,---,"","",90,72,0.556,2,dnq
+1970,STL,Bing Devine,---,"","",76,86,0.469,4,dnq
+1969,STL,Bing Devine,---,"","",87,75,0.537,4,dnq
+1968,STL,Bing Devine,---,"","",97,65,0.599,1,Lost World Series (Tigers)
+1967,STL,Stan Musial,MLB,1941-1963,1941-1963,101,60,0.627,1,Won World Series (Red Sox)
+1966,STL,Bob Howsam,---,"","",83,79,0.512,6,dnq
+1965,STL,Bob Howsam,---,"","",80,81,0.497,7,dnq
+1964,STL,Bing Devine,---,"","",93,69,0.574,1,Won World Series (Yankees)
+1963,STL,Bing Devine,---,"","",93,69,0.574,2,dnq
+1962,STL,Bing Devine,---,"","",84,78,0.519,6,dnq
+1961,STL,Bing Devine,---,"","",80,74,0.519,5,dnq
+1960,STL,Bing Devine,---,"","",86,68,0.558,3,dnq
+1959,STL,Bing Devine,---,"","",71,83,0.461,7,dnq
+1958,STL,Bing Devine,---,"","",72,82,0.468,5,dnq
+1957,STL,Frank Lane,---,"","",87,67,0.565,2,dnq
+1956,STL,Frank Lane,---,"","",76,78,0.494,4,dnq
+1955,STL,Dick Meyer,---,"","",68,86,0.442,7,dnq
+1954,STL,Dick Meyer,---,"","",72,82,0.468,6,dnq
+2021,TBR,Erik Neander,---,"","",0,0,---,1,---
+2020,TBR,Erik Neander,---,"","",40,20,0.667,1,Lost World Series (Dodgers)
+2019,TBR,Erik Neander,---,"","",96,66,0.593,2,Lost in 1st Round (Astros)
+2018,TBR,Erik Neander,---,"","",90,72,0.556,3,dnq
+2017,TBR,Erik Neander,---,"","",80,82,0.494,3,dnq
+2016,TBR,Matt Silverman,---,"","",68,94,0.42,5,dnq
+2015,TBR,Matt Silverman,---,"","",80,82,0.494,4,dnq
+2014,TBR,Andrew Friedman,---,"","",77,85,0.475,4,dnq
+2013,TBR,Andrew Friedman,---,"","",92,71,0.564,2,Lost in 1st Round (Red Sox)
+2012,TBR,Andrew Friedman,---,"","",90,72,0.556,3,dnq
+2011,TBR,Andrew Friedman,---,"","",91,71,0.562,2,Lost in 1st Round (Rangers)
+2010,TBR,Andrew Friedman,---,"","",96,66,0.593,1,Lost in 1st Round (Rangers)
+2009,TBR,Andrew Friedman,---,"","",84,78,0.519,3,dnq
+2008,TBR,Andrew Friedman,---,"","",97,65,0.599,1,Lost World Series (Philadelphia)
+2007,TBR,Andrew Friedman,---,"","",66,96,0.407,5,dnq
+2006,TBR,Andrew Friedman,---,"","",61,101,0.377,5,dnq
+2005,TBR,Chuck Lamar,---,"","",67,95,0.414,5,dnq
+2004,TBR,Chuck Lamar,---,"","",70,91,0.435,4,dnq
+2003,TBR,Chuck Lamar,---,"","",63,99,0.389,5,dnq
+2002,TBR,Chuck Lamar,---,"","",55,106,0.342,5,dnq
+2001,TBR,Chuck Lamar,---,"","",62,100,0.383,5,dnq
+2000,TBR,Chuck Lamar,---,"","",69,92,0.429,5,dnq
+1999,TBR,Chuck Lamar,---,"","",69,93,0.426,5,dnq
+1998,TBR,Chuck Lamar,---,"","",63,99,0.389,5,dnq
+2021,TEX,Chris Young,MLB,2004-2017,2000-2017,0,0,---,5,---
+2020,TEX,Jon Daniels,---,"","",22,36,0.379,5,dnq
+2019,TEX,Jon Daniels,---,"","",78,84,0.481,3,dnq
+2018,TEX,Jon Daniels,---,"","",67,95,0.414,5,dnq
+2017,TEX,Jon Daniels,---,"","",78,84,0.481,4,dnq
+2016,TEX,Jon Daniels,---,"","",95,67,0.586,1,Lost in 1st Round (Blue Jays)
+2015,TEX,Jon Daniels,---,"","",88,74,0.543,1,Lost in 1st Round (Blue Jays)
+2014,TEX,Jon Daniels,---,"","",67,95,0.414,5,dnq
+2013,TEX,Jon Daniels,---,"","",91,72,0.558,2,dnq
+2012,TEX,Jon Daniels,---,"","",93,69,0.574,2,Lost AL Wild-Card Game (Orioles)
+2011,TEX,Jon Daniels,---,"","",96,66,0.593,1,Lost World Series (Cardinals)
+2010,TEX,Jon Daniels,---,"","",90,72,0.556,1,Lost World Series (Giants)
+2009,TEX,Jon Daniels,---,"","",87,75,0.537,2,dnq
+2008,TEX,Jon Daniels,---,"","",79,83,0.488,2,dnq
+2007,TEX,Jon Daniels,---,"","",75,87,0.463,4,dnq
+2006,TEX,Jon Daniels,---,"","",80,82,0.494,3,dnq
+2005,TEX,John Hart,---,"","",79,83,0.488,3,dnq
+2004,TEX,John Hart,---,"","",89,73,0.549,3,dnq
+2003,TEX,John Hart,---,"","",71,91,0.438,4,dnq
+2002,TEX,John Hart,---,"","",72,90,0.444,4,dnq
+2001,TEX,Douglas Melvin,AA,"",1977-1978,73,89,0.451,4,dnq
+2000,TEX,Douglas Melvin,AA,"",1977-1978,71,91,0.438,4,dnq
+1999,TEX,Douglas Melvin,AA,"",1977-1978,95,67,0.586,1,Lost in 1st Round (Yankees)
+1998,TEX,Douglas Melvin,AA,"",1977-1978,88,74,0.543,1,Lost in 1st Round (Yankees)
+1997,TEX,Douglas Melvin,AA,"",1977-1978,77,85,0.475,3,dnq
+1996,TEX,Douglas Melvin,AA,"",1977-1978,90,72,0.556,1,Lost in 1st Round (Yankees)
+1995,TEX,Douglas Melvin,AA,"",1977-1978,74,70,0.514,3,dnq
+1994,TEX,Tom Grieve,MLB,1970-1979,1970-1979,52,62,0.456,1,dnq
+1993,TEX,Tom Grieve,MLB,1970-1979,1970-1979,86,76,0.531,2,dnq
+1992,TEX,Tom Grieve,MLB,1970-1979,1970-1979,77,85,0.475,4,dnq
+1991,TEX,Tom Grieve,MLB,1970-1979,1970-1979,85,77,0.525,3,dnq
+1990,TEX,Tom Grieve,MLB,1970-1979,1970-1979,83,79,0.512,3,dnq
+1989,TEX,Tom Grieve,MLB,1970-1979,1970-1979,83,79,0.512,4,dnq
+1988,TEX,Tom Grieve,MLB,1970-1979,1970-1979,70,91,0.435,6,dnq
+1987,TEX,Tom Grieve,MLB,1970-1979,1970-1979,75,87,0.463,6,dnq
+1986,TEX,Tom Grieve,MLB,1970-1979,1970-1979,87,75,0.537,2,dnq
+1985,TEX,Tom Grieve,MLB,1970-1979,1970-1979,62,99,0.385,7,dnq
+1984,TEX,Joe Klein,---,"","",69,92,0.429,7,dnq
+1983,TEX,Joe Klein,---,"","",77,85,0.475,3,dnq
+1982,TEX,Eddie Robinson,MLB,1942-1957,1942-1957,64,98,0.395,6,dnq
+1981,TEX,Eddie Robinson,MLB,1942-1957,1942-1957,57,48,0.543,0,dnq
+1980,TEX,Eddie Robinson,MLB,1942-1957,1942-1957,76,85,0.472,4,dnq
+1979,TEX,Eddie Robinson,MLB,1942-1957,1942-1957,83,79,0.512,3,dnq
+1978,TEX,Dan O'Brien,---,"","",87,75,0.537,2,dnq
+1977,TEX,Dan O'Brien,---,"","",94,68,0.58,2,dnq
+1976,TEX,Dan O'Brien,---,"","",76,86,0.469,4,dnq
+1975,TEX,Dan O'Brien,---,"","",79,83,0.488,3,dnq
+1974,TEX,Dan O'Brien,---,"","",84,76,0.525,2,dnq
+1973,TEX,Joe Burke,---,"","",57,105,0.352,6,dnq
+1972,TEX,Joe Burke,---,"","",54,100,0.351,6,dnq
+1971,WAS,Bob Short,---,"","",63,96,0.396,5,dnq
+1970,WAS,Bob Short,---,"","",70,92,0.432,6,dnq
+1969,WAS,Bob Short,---,"","",86,76,0.531,4,dnq
+1968,WAS,George Selkirk,MLB,1934-1942,1934-1942,65,96,0.404,10,dnq
+1967,WAS,George Selkirk,MLB,1934-1942,1934-1942,76,85,0.472,6,dnq
+1966,WAS,George Selkirk,MLB,1934-1942,1934-1942,71,88,0.447,8,dnq
+1965,WAS,George Selkirk,MLB,1934-1942,1934-1942,70,92,0.432,8,dnq
+1964,WAS,George Selkirk,MLB,1934-1942,1934-1942,62,100,0.383,9,dnq
+1963,WAS,George Selkirk,MLB,1934-1942,1934-1942,56,106,0.346,10,dnq
+1962,WAS,Ed Doherty,---,"","",60,101,0.373,10,dnq
+1961,WAS,Ed Doherty,---,"","",61,100,0.379,9,dnq
+2021,TOR,Ross Atkins,AA,"",1993-1999,0,0,---,3,---
+2020,TOR,Ross Atkins,AA,"",1993-1999,32,28,0.533,3,Lost in Wild Card Series (Rays)
+2019,TOR,Ross Atkins,AA,"",1993-1999,67,95,0.414,4,dnq
+2018,TOR,Ross Atkins,AA,"",1993-1999,73,89,0.451,4,dnq
+2017,TOR,Ross Atkins,AA,"",1993-1999,76,86,0.469,4,dnq
+2016,TOR,Ross Atkins,AA,"",1993-1999,89,73,0.549,3,Lost in ALCS (Indians)
+2015,TOR,Alex Anthopoulos,---,"","",93,69,0.574,1,Lost in ALCS (Royals)
+2014,TOR,Alex Anthopoulos,---,"","",83,79,0.512,3,dnq
+2013,TOR,Alex Anthopoulos,---,"","",74,88,0.457,5,dnq
+2012,TOR,Alex Anthopoulos,---,"","",73,89,0.451,4,dnq
+2011,TOR,Alex Anthopoulos,---,"","",81,81,0.5,4,dnq
+2010,TOR,Alex Anthopoulos,---,"","",85,77,0.525,4,dnq
+2009,TOR,JP Ricciardi,A,"",1980-1981,75,87,0.463,4,dnq
+2008,TOR,JP Ricciardi,A,"",1980-1981,86,76,0.531,4,dnq
+2007,TOR,JP Ricciardi,A,"",1980-1981,83,79,0.512,3,dnq
+2006,TOR,JP Ricciardi,A,"",1980-1981,87,75,0.537,2,dnq
+2005,TOR,JP Ricciardi,A,"",1980-1981,80,82,0.494,3,dnq
+2004,TOR,JP Ricciardi,A,"",1980-1981,67,94,0.416,5,dnq
+2003,TOR,JP Ricciardi,A,"",1980-1981,86,76,0.531,3,dnq
+2002,TOR,JP Ricciardi,A,"",1980-1981,78,84,0.481,3,dnq
+2001,TOR,Gord Ash,---,"","",80,82,0.494,3,dnq
+2000,TOR,Gord Ash,---,"","",83,79,0.512,3,dnq
+1999,TOR,Gord Ash,---,"","",84,78,0.519,3,dnq
+1998,TOR,Gord Ash,---,"","",88,74,0.543,3,dnq
+1997,TOR,Gord Ash,---,"","",76,86,0.469,5,dnq
+1996,TOR,Gord Ash,---,"","",74,88,0.457,4,dnq
+1995,TOR,Gord Ash,---,"","",56,88,0.389,5,dnq
+1994,TOR,Pat Gillick,---,"","",55,60,0.478,3,dnq
+1993,TOR,Pat Gillick,---,"","",95,67,0.586,1,Won World Series (Phillies)
+1992,TOR,Pat Gillick,---,"","",96,66,0.593,1,Won World Series (Braves)
+1991,TOR,Pat Gillick,---,"","",91,71,0.562,1,Lost ALCS (Twins)
+1990,TOR,Pat Gillick,---,"","",86,76,0.531,2,dnq
+1989,TOR,Pat Gillick,---,"","",89,73,0.549,1,Lost ALCS (Athletics)
+1988,TOR,Pat Gillick,---,"","",87,75,0.537,3,dnq
+1987,TOR,Pat Gillick,---,"","",96,66,0.593,2,dnq
+1986,TOR,Pat Gillick,---,"","",86,76,0.531,4,dnq
+1985,TOR,Pat Gillick,---,"","",99,62,0.615,1,Lost ALCS (Royals)
+1984,TOR,Pat Gillick,---,"","",89,73,0.549,2,dnq
+1983,TOR,Pat Gillick,---,"","",89,73,0.549,4,dnq
+1982,TOR,Pat Gillick,---,"","",78,84,0.481,6,dnq
+1981,TOR,Pat Gillick,---,"","",37,69,0.349,0,dnq
+1980,TOR,Pat Gillick,---,"","",67,95,0.414,7,dnq
+1979,TOR,Pat Gillick,---,"","",53,109,0.327,7,dnq
+1978,TOR,Pat Gillick,---,"","",59,102,0.366,7,dnq
+1977,TOR,Buzzie Bavasi,---,"","",54,107,0.335,7,dnq
+2021,WSN,Michael Rizzo,A+,"",1982-1984,0,0,---,5,---
+2020,WSN,Michael Rizzo,A+,"",1982-1984,26,34,0.433,5,dnq
+2020,WSN,Michael Rizzo,A+,"",1982-1984,26,34,0.433,5,dnq
+2019,WSN,Michael Rizzo,A+,"",1982-1984,93,69,0.574,2,Won World Series (Astros)
+2018,WSN,Michael Rizzo,A+,"",1982-1984,82,80,0.506,2,dnq
+2017,WSN,Michael Rizzo,A+,"",1982-1984,97,65,0.599,1,Lost in 1st Round (Cubs)
+2016,WSN,Michael Rizzo,A+,"",1982-1984,95,67,0.586,1,Lost in 1st Round (Dodgers)
+2015,WSN,Michael Rizzo,A+,"",1982-1984,83,79,0.512,2,dnq
+2014,WSN,Michael Rizzo,A+,"",1982-1984,96,66,0.593,1,Lost in 1st Round (Giants)
+2013,WSN,Michael Rizzo,A+,"",1982-1984,86,76,0.531,2,dnq
+2012,WSN,Michael Rizzo,A+,"",1982-1984,98,64,0.605,1,Lost in 1st Round (Cardinals)
+2011,WSN,Michael Rizzo,A+,"",1982-1984,80,81,0.497,3,dnq
+2010,WSN,Michael Rizzo,A+,"",1982-1984,69,93,0.426,5,dnq
+2009,WSN,Michael Rizzo,A+,"",1982-1984,59,103,0.364,5,dnq
+2008,WSN,Jim Bowden,---,"","",59,102,0.366,5,dnq
+2007,WSN,Jim Bowden,---,"","",73,89,0.451,4,dnq
+2006,WSN,Jim Bowden,---,"","",71,91,0.438,5,dnq
+2005,WSN,Jim Bowden,---,"","",81,81,0.5,5,dnq
+2004,MON,Omar Minaya,A,"",1978-1981,67,95,0.414,5,dnq
+2003,MON,Omar Minaya,A,"",1978-1981,83,79,0.512,4,dnq
+2002,MON,Omar Minaya,A,"",1978-1981,83,79,0.512,2,dnq
+2001,MON,Jim Beattie,MLB,1978-1986,1976-1986,68,94,0.42,5,dnq
+2000,MON,Jim Beattie,MLB,1978-1986,1976-1986,67,95,0.414,4,dnq
+1999,MON,Jim Beattie,MLB,1978-1986,1976-1986,68,94,0.42,4,dnq
+1998,MON,Jim Beattie,MLB,1978-1986,1976-1986,65,97,0.401,4,dnq
+1997,MON,Jim Beattie,MLB,1978-1986,1976-1986,78,84,0.481,4,dnq
+1996,MON,Jim Beattie,MLB,1978-1986,1976-1986,88,74,0.543,2,dnq
+1995,MON,Kevin Malone,A-,"",1979-1980,66,78,0.458,5,dnq
+1994,MON,Kevin Malone,A-,"",1979-1980,74,40,0.649,1,dnq
+1993,MON,Dan Duquette,---,"","",94,68,0.58,2,dnq
+1992,MON,Dan Duquette,---,"","",87,75,0.537,2,dnq
+1991,MON,Dave Dombrowski,---,"","",71,90,0.441,6,dnq
+1990,MON,Dave Dombrowski,---,"","",85,77,0.525,3,dnq
+1989,MON,Dave Dombrowski,---,"","",81,81,0.5,4,dnq
+1988,MON,Bill Stoneman,MLB,1967-1974,1967-1974,81,81,0.5,3,dnq
+1987,MON,Murray Cook,---,"","",91,71,0.562,3,dnq
+1986,MON,Murray Cook,---,"","",78,83,0.484,4,dnq
+1985,MON,Murray Cook,---,"","",84,77,0.522,3,dnq
+1984,MON,John McHale,MLB,1943-1948,1943-1948,78,83,0.484,5,dnq
+1983,MON,John McHale,MLB,1943-1948,1943-1948,82,80,0.506,3,dnq
+1982,MON,John McHale,MLB,1943-1948,1943-1948,86,76,0.531,3,dnq
+1981,MON,John McHale,MLB,1943-1948,1943-1948,60,48,0.556,0,Lost NLCS (Dodgers)
+1980,MON,John McHale,MLB,1943-1948,1943-1948,90,72,0.556,2,dnq
+1979,MON,John McHale,MLB,1943-1948,1943-1948,95,65,0.594,2,dnq
+1978,MON,Charlie Fox,MLB,1942-1942,1942-1942,76,86,0.469,4,dnq
+1977,MON,Charlie Fox,MLB,1942-1942,1942-1942,75,87,0.463,5,dnq
+1976,MON,Jim Fanning,MLB,1954-1957,1954-1957,55,107,0.34,6,dnq
+1975,MON,Jim Fanning,MLB,1954-1957,1954-1957,75,87,0.463,5,dnq
+1974,MON,Jim Fanning,MLB,1954-1957,1954-1957,79,82,0.491,4,dnq
+1973,MON,Jim Fanning,MLB,1954-1957,1954-1957,79,83,0.488,4,dnq
+1972,MON,Jim Fanning,MLB,1954-1957,1954-1957,70,86,0.449,5,dnq
+1971,MON,Jim Fanning,MLB,1954-1957,1954-1957,71,90,0.441,5,dnq
+1970,MON,Jim Fanning,MLB,1954-1957,1954-1957,73,89,0.451,6,dnq
+1969,MON,Jim Fanning,MLB,1954-1957,1954-1957,52,110,0.321,6,dnq
+2021,CHW,Rick Hahn,---,"","",0,0,---,3,---
+2020,CHW,Rick Hahn,---,"","",35,25,0.583,3,Lost in Wild Card Series (Athletics)
+2019,CHW,Rick Hahn,---,"","",72,89,0.447,3,dnq
+2018,CHW,Rick Hahn,---,"","",62,100,0.383,4,dnq
+2017,CHW,Rick Hahn,---,"","",67,95,0.414,4,dnq
+2016,CHW,Rick Hahn,---,"","",78,84,0.481,4,dnq
+2015,CHW,Rick Hahn,---,"","",76,86,0.469,4,dnq
+2014,CHW,Rick Hahn,---,"","",73,89,0.451,4,dnq
+2013,CHW,Rick Hahn,---,"","",63,99,0.389,5,dnq
+2012,CHW,Kenny Williams,MLB,1986-1991,1982-1992,85,77,0.525,2,dnq
+2011,CHW,Kenny Williams,MLB,1986-1991,1982-1992,79,83,0.488,3,dnq
+2010,CHW,Kenny Williams,MLB,1986-1991,1982-1992,88,74,0.543,2,dnq
+2009,CHW,Ken Williams,MLB,1915-1929,1915-1929,79,83,0.488,3,dnq
+2008,CHW,Ken Williams,MLB,1915-1929,1915-1929,89,74,0.546,1,Lost in 1st Round (Rays)
+2007,CHW,Ken Williams,MLB,1915-1929,1915-1929,72,90,0.444,4,dnq
+2006,CHW,Ken Williams,MLB,1915-1929,1915-1929,90,72,0.556,3,dnq
+2005,CHW,Ken Williams,MLB,1915-1929,1915-1929,99,63,0.611,1,Won World Series (Astros)
+2004,CHW,Ken Williams,MLB,1915-1929,1915-1929,83,79,0.512,2,dnq
+2003,CHW,Ken Williams,MLB,1915-1929,1915-1929,86,76,0.531,2,dnq
+2002,CHW,Ken Williams,MLB,1915-1929,1915-1929,81,81,0.5,2,dnq
+2001,CHW,Ken Williams,MLB,1915-1929,1915-1929,83,79,0.512,3,dnq
+2000,CHW,Ron Schueler,MLB,1972-1979,1972-1979,95,67,0.586,1,Lost in 1st Round (Mariners)
+1999,CHW,Ron Schueler,MLB,1972-1979,1972-1979,75,86,0.466,2,dnq
+1998,CHW,Ron Schueler,MLB,1972-1979,1972-1979,80,82,0.494,2,dnq
+1997,CHW,Ron Schueler,MLB,1972-1979,1972-1979,80,81,0.497,2,dnq
+1996,CHW,Ron Schueler,MLB,1972-1979,1972-1979,85,77,0.525,2,dnq
+1995,CHW,Ron Schueler,MLB,1972-1979,1972-1979,68,76,0.472,3,dnq
+1994,CHW,Ron Schueler,MLB,1972-1979,1972-1979,67,46,0.593,1,dnq
+1993,CHW,Ron Schueler,MLB,1972-1979,1972-1979,94,68,0.58,1,Lost ALCS (Blue Jays)
+1992,CHW,Ron Schueler,MLB,1972-1979,1972-1979,86,76,0.531,3,dnq
+1991,CHW,Ron Schueler,MLB,1972-1979,1972-1979,87,75,0.537,2,dnq
+1990,CHW,Larry Himes,---,"","",94,68,0.58,2,dnq
+1989,CHW,Larry Himes,---,"","",69,92,0.429,7,dnq
+1988,CHW,Larry Himes,---,"","",71,90,0.441,5,dnq
+1987,CHW,Larry Himes,---,"","",77,85,0.475,5,dnq
+1986,CHW,Ken Harrelson,MLB,1963-1971,1963-1971,72,90,0.444,5,dnq
+1985,CHW,Roland Hemond,---,"","",85,77,0.525,3,dnq
+1984,CHW,Roland Hemond,---,"","",74,88,0.457,6,dnq
+1983,CHW,Roland Hemond,---,"","",99,63,0.611,1,Lost ALCS (Orioles)
+1982,CHW,Roland Hemond,---,"","",87,75,0.537,3,dnq
+1981,CHW,Roland Hemond,---,"","",54,52,0.509,0,dnq
+1980,CHW,Roland Hemond,---,"","",70,90,0.438,5,dnq
+1979,CHW,Roland Hemond,---,"","",73,87,0.456,5,dnq
+1978,CHW,Roland Hemond,---,"","",71,90,0.441,5,dnq
+1977,CHW,Roland Hemond,---,"","",90,72,0.556,3,dnq
+1976,CHW,Roland Hemond,---,"","",64,97,0.398,6,dnq
+1975,CHW,Roland Hemond,---,"","",75,86,0.466,5,dnq
+1974,CHW,Roland Hemond,---,"","",80,80,0.5,4,dnq
+1973,CHW,Roland Hemond,---,"","",77,85,0.475,5,dnq
+1973,CHW,Stu Holcomb,---,"","",77,85,0.475,5,dnq
+1972,CHW,Stu Holcomb,---,"","",87,67,0.565,2,dnq
+1971,CHW,Stu Holcomb,---,"","",79,83,0.488,3,dnq
+1970,CHW,Ed Short,---,"","",56,106,0.346,6,dnq
+1969,CHW,Ed Short,---,"","",68,94,0.42,5,dnq
+1968,CHW,Ed Short,---,"","",67,95,0.414,9,dnq
+1967,CHW,Ed Short,---,"","",89,73,0.549,4,dnq
+1966,CHW,Ed Short,---,"","",83,79,0.512,4,dnq
+1965,CHW,Ed Short,---,"","",95,67,0.586,2,dnq
+1964,CHW,Ed Short,---,"","",98,64,0.605,2,dnq
+1963,CHW,Ed Short,---,"","",94,68,0.58,2,dnq
+1962,CHW,Ed Short,---,"","",85,77,0.525,5,dnq
+1961,CHW,Bill Veeck,---,"","",86,76,0.531,4,dnq
+1961,CHW,Hank Greenberg,MLB,1930-1947,1930-1947,86,76,0.531,4,dnq
+1960,CHW,Bill Veeck,---,"","",87,67,0.565,3,dnq
+1959,CHW,Charlie Comiskey,MLB,1882-1894,1882-1894,94,60,0.61,1,Lost World Series (Dodgers)
+1958,CHW,Charlie Comiskey,MLB,1882-1894,1882-1894,82,72,0.532,2,dnq
+1957,CHW,Charlie Comiskey,MLB,1882-1894,1882-1894,90,64,0.584,2,dnq
+1956,CHW,Charlie Comiskey,MLB,1882-1894,1882-1894,85,69,0.552,3,dnq
+1955,CHW,Frank Lane,---,"","",91,63,0.591,3,dnq
+1954,CHW,Frank Lane,---,"","",94,60,0.61,3,dnq
+1953,CHW,Frank Lane,---,"","",89,65,0.578,3,dnq
+1952,CHW,Frank Lane,---,"","",81,73,0.526,3,dnq
+1951,CHW,Frank Lane,---,"","",81,73,0.526,4,dnq
+1950,CHW,Frank Lane,---,"","",60,94,0.39,6,dnq
