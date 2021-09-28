@@ -7,15 +7,15 @@ playerTable <- read.csv("PlayerDataByYear.csv", header=T)
 gmTable <- read.csv("GeneralManagerData.csv", header=T)
 pitcherTable <- read.csv("PitchersDataByYear.csv", header=T)
 
-View(pitcherTable)
-View(playerTable)
-View(gmTable)
+#View(pitcherTable)
+#View(playerTable)
+#View(gmTable)
 
 gmTable <- rename(gmTable, "Team"="Team.Name")
 gmTable <- rename(gmTable, "GM"="General.Manager.Name")
 
-View(gmTable)
-require(plyr)
+head(gmTable)
+#require(plyr)
 pitcherTable$Team <- mapvalues(pitcherTable$Team, from = c("TBD"), to=c("TBR"))
 gmTable$Team <- mapvalues(gmTable$Team, 
                                from=c(
@@ -113,5 +113,5 @@ gmTable$Team <- mapvalues(gmTable$Team,
                                  "WAS", 
                                  "WAS"))
 
-View(gmTable)
+head(gmTable)
 fwrite(gmTable, "gmTable.csv")
