@@ -1,6 +1,6 @@
 library(tidyverse)
-library(plyr)
 library(dplyr)
+library(data.table)
 
 
 playerTable <- read.csv("PlayerDataByYear.csv", header=T)
@@ -15,7 +15,8 @@ gmTable <- rename(gmTable, "Team"="Team.Name")
 gmTable <- rename(gmTable, "GM"="General.Manager.Name")
 
 head(gmTable)
-#require(plyr)
+
+library(plyr)
 pitcherTable$Team <- mapvalues(pitcherTable$Team, from = c("TBD"), to=c("TBR"))
 gmTable$Team <- mapvalues(gmTable$Team, 
                                from=c(
@@ -114,4 +115,5 @@ gmTable$Team <- mapvalues(gmTable$Team,
                                  "WAS"))
 
 head(gmTable)
+
 fwrite(gmTable, "gmTable.csv")
