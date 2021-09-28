@@ -1742,3 +1742,77 @@ Year,Team Name,General Manager Name,HiLvl,MLB Years,Stat Years,W,L,WPct,Rank,Pla
 1971,Montreal Expos,Jim Fanning,MLB,1954-1957,1954-1957,71,90,0.441,5,dnq
 1970,Montreal Expos,Jim Fanning,MLB,1954-1957,1954-1957,73,89,0.451,6,dnq
 1969,Montreal Expos,Jim Fanning,MLB,1954-1957,1954-1957,52,110,0.321,6,dnq
+2021,Chicago White Sox,Rick Hahn,---,,,0,0,---,3,---
+2020,Chicago White Sox,Rick Hahn,---,,,35,25,0.583,3,Lost in Wild Card Series (Athletics)
+2019,Chicago White Sox,Rick Hahn,---,,,72,89,0.447,3,dnq
+2018,Chicago White Sox,Rick Hahn,---,,,62,100,0.383,4,dnq
+2017,Chicago White Sox,Rick Hahn,---,,,67,95,0.414,4,dnq
+2016,Chicago White Sox,Rick Hahn,---,,,78,84,0.481,4,dnq
+2015,Chicago White Sox,Rick Hahn,---,,,76,86,0.469,4,dnq
+2014,Chicago White Sox,Rick Hahn,---,,,73,89,0.451,4,dnq
+2013,Chicago White Sox,Rick Hahn,---,,,63,99,0.389,5,dnq
+2012,Chicago White Sox,Kenny Williams,MLB,1986-1991,1982-1992,85,77,0.525,2,dnq
+2011,Chicago White Sox,Kenny Williams,MLB,1986-1991,1982-1992,79,83,0.488,3,dnq
+2010,Chicago White Sox,Kenny Williams,MLB,1986-1991,1982-1992,88,74,0.543,2,dnq
+2009,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,79,83,0.488,3,dnq
+2008,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,89,74,0.546,1,Lost in 1st Round (Rays)
+2007,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,72,90,0.444,4,dnq
+2006,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,90,72,0.556,3,dnq
+2005,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,99,63,0.611,1,Won World Series (Astros)
+2004,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,83,79,0.512,2,dnq
+2003,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,86,76,0.531,2,dnq
+2002,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,81,81,0.5,2,dnq
+2001,Chicago White Sox,Ken Williams,MLB,1915-1929,1915-1929,83,79,0.512,3,dnq
+2000,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,95,67,0.586,1,Lost in 1st Round (Mariners)
+1999,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,75,86,0.466,2,dnq
+1998,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,80,82,0.494,2,dnq
+1997,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,80,81,0.497,2,dnq
+1996,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,85,77,0.525,2,dnq
+1995,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,68,76,0.472,3,dnq
+1994,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,67,46,0.593,1,dnq
+1993,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,94,68,0.58,1,Lost ALCS (Blue Jays)
+1992,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,86,76,0.531,3,dnq
+1991,Chicago White Sox,Ron Schueler,MLB,1972-1979,1972-1979,87,75,0.537,2,dnq
+1990,Chicago White Sox,Larry Himes,---,,,94,68,0.58,2,dnq
+1989,Chicago White Sox,Larry Himes,---,,,69,92,0.429,7,dnq
+1988,Chicago White Sox,Larry Himes,---,,,71,90,0.441,5,dnq
+1987,Chicago White Sox,Larry Himes,---,,,77,85,0.475,5,dnq
+1986,Chicago White Sox,Ken Harrelson,MLB,1963-1971,1963-1971,72,90,0.444,5,dnq
+1985,Chicago White Sox,Roland Hemond,---,,,85,77,0.525,3,dnq
+1984,Chicago White Sox,Roland Hemond,---,,,74,88,0.457,6,dnq
+1983,Chicago White Sox,Roland Hemond,---,,,99,63,0.611,1,Lost ALCS (Orioles)
+1982,Chicago White Sox,Roland Hemond,---,,,87,75,0.537,3,dnq
+1981,Chicago White Sox,Roland Hemond,---,,,54,52,0.509,0,dnq
+1980,Chicago White Sox,Roland Hemond,---,,,70,90,0.438,5,dnq
+1979,Chicago White Sox,Roland Hemond,---,,,73,87,0.456,5,dnq
+1978,Chicago White Sox,Roland Hemond,---,,,71,90,0.441,5,dnq
+1977,Chicago White Sox,Roland Hemond,---,,,90,72,0.556,3,dnq
+1976,Chicago White Sox,Roland Hemond,---,,,64,97,0.398,6,dnq
+1975,Chicago White Sox,Roland Hemond,---,,,75,86,0.466,5,dnq
+1974,Chicago White Sox,Roland Hemond,---,,,80,80,0.5,4,dnq
+1973,Chicago White Sox,Roland Hemond,---,,,77,85,0.475,5,dnq
+1973,Chicago White Sox,Stu Holcomb,---,,,77,85,0.475,5,dnq
+1972,Chicago White Sox,Stu Holcomb,---,,,87,67,0.565,2,dnq
+1971,Chicago White Sox,Stu Holcomb,---,,,79,83,0.488,3,dnq
+1970,Chicago White Sox,Ed Short,---,,,56,106,0.346,6,dnq
+1969,Chicago White Sox,Ed Short,---,,,68,94,0.42,5,dnq
+1968,Chicago White Sox,Ed Short,---,,,67,95,0.414,9,dnq
+1967,Chicago White Sox,Ed Short,---,,,89,73,0.549,4,dnq
+1966,Chicago White Sox,Ed Short,---,,,83,79,0.512,4,dnq
+1965,Chicago White Sox,Ed Short,---,,,95,67,0.586,2,dnq
+1964,Chicago White Sox,Ed Short,---,,,98,64,0.605,2,dnq
+1963,Chicago White Sox,Ed Short,---,,,94,68,0.58,2,dnq
+1962,Chicago White Sox,Ed Short,---,,,85,77,0.525,5,dnq
+1961,Chicago White Sox,Bill Veeck,---,,,86,76,0.531,4,dnq
+1961,Chicago White Sox,Hank Greenberg,MLB,1930-1947,1930-1947,86,76,0.531,4,dnq
+1960,Chicago White Sox,Bill Veeck,---,,,87,67,0.565,3,dnq
+1959,Chicago White Sox,Charlie Comiskey,MLB,1882-1894,1882-1894,94,60,0.61,1,Lost World Series (Dodgers)
+1958,Chicago White Sox,Charlie Comiskey,MLB,1882-1894,1882-1894,82,72,0.532,2,dnq
+1957,Chicago White Sox,Charlie Comiskey,MLB,1882-1894,1882-1894,90,64,0.584,2,dnq
+1956,Chicago White Sox,Charlie Comiskey,MLB,1882-1894,1882-1894,85,69,0.552,3,dnq
+1955,Chicago White Sox,Frank Lane,---,,,91,63,0.591,3,dnq
+1954,Chicago White Sox,Frank Lane,---,,,94,60,0.61,3,dnq
+1953,Chicago White Sox,Frank Lane,---,,,89,65,0.578,3,dnq
+1952,Chicago White Sox,Frank Lane,---,,,81,73,0.526,3,dnq
+1951,Chicago White Sox,Frank Lane,---,,,81,73,0.526,4,dnq
+1950,Chicago White Sox,Frank Lane,---,,,60,94,0.39,6,dnq
