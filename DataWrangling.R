@@ -14,6 +14,7 @@ View(gmTable)
 gmTable <- rename(gmTable, "Team"="Team.Name")
 gmTable <- rename(gmTable, "GM"="General.Manager.Name")
 
+View(gmTable)
 require(plyr)
 pitcherTable$Team <- mapvalues(pitcherTable$Team, from = c("TBD"), to=c("TBR"))
 gmTable$Team <- mapvalues(gmTable$Team, 
@@ -111,3 +112,6 @@ gmTable$Team <- mapvalues(gmTable$Team,
                                  "WSN", 
                                  "WAS", 
                                  "WAS"))
+
+View(gmTable)
+fwrite(gmTable, "gmTable.csv")
