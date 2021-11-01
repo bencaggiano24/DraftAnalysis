@@ -215,4 +215,9 @@ draftTable$Team <- mapvalues(draftTable$Team,
 head(gmTable)
 
 fwrite(gmTable, "gmTable.csv")
+<<<<<<< Updated upstream
 fwrite(draftTable, "draftTable.csv")
+=======
+
+head(playerTable)
+>>>>>>> Stashed changes
