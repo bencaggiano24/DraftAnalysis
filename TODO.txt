@@ -1,3 +1,24 @@
-Average WAR per draft trend overlayed on draft WARs by team
+* Average WAR per draft trend overlayed on draft WARs by team
+* Create distributions for all picks with expected value and standard deviation to   calculate the percentiles of each player at draft position
+* Filter out non-June Amateur draft
+* Implement some supplementary statistic that shows if a manager is better at drafting   hitters, defensive players, pitchers
+* Figure out a way to rank GMs amongst their peers
 
-General Manager WAR Per Pick
+
+
+
+
+-------------General Manager WAR Per Pick------------------
+
+* Put navigation in bottom right to match the other pages
+* Change name at draft_year filter to Draft Year or Year
+* Remove totals that do not tell us anything such as total year
+
+-------------Total War Per Manager-------------------------
+
+* Make common filters consistent across pages (filters and navigation in similar locations as previous pages)
+* Change the name of the graph from Average WAR Per Player Drafted to Total WAR Per Player Drafted
+
+-------------General Manager Trend Chart-------------------
+
+*
