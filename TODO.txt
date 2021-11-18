@@ -1,0 +1,3 @@
+Average WAR per draft trend overlayed on draft WARs by team
+
+General Manager WAR Per Pick
